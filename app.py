@@ -9,7 +9,7 @@ from src.inference.ui import app_predictor, app_references, page_intro, show_pre
 from src.inference.validation import InputValidationError
 
 
-st.spage_config(page_title="Singapore Property Price Predictor", page_icon="🏠", layout="wide")
+st.set_page_config(page_title="Singapore Property Price Predictor", page_icon="🏠", layout="wide")
 page_intro(
     "Singapore Residential Property Price Predictor",
     "Estimate an HDB resale, Executive Condominium, or landed-house value using chronologically tested local models.",
