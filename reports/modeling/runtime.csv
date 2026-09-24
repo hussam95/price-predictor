@@ -1,0 +1,12 @@
+category,model,feature_variant,training_policy,fit_seconds,training_rows
+hdb,ridge,without_mrt,all_transactions,1.8536523329967167,889599
+hdb,ridge,with_mrt,all_transactions,2.308329916995717,889599
+hdb,hist_gradient_boosting,without_mrt,all_transactions,10.308071083010873,889599
+hdb,hist_gradient_boosting,with_mrt,all_transactions,13.49397720801062,889599
+ec,ridge,without_mrt,all_transactions,0.056505249987822026,7418
+ec,ridge,with_mrt,all_transactions,0.032632458984153345,7418
+ec,hist_gradient_boosting,without_mrt,all_transactions,2.495191875001183,7418
+ec,hist_gradient_boosting,with_mrt,all_transactions,2.6753941670176573,7418
+landed,ridge,no_mrt,all_transactions,0.04014979102066718,3838
+landed,hist_gradient_boosting,no_mrt,all_transactions,3.7980918750108685,3838
+landed,hist_gradient_boosting,no_mrt,exclude_multi_unit,2.82145129100536,3825

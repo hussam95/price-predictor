@@ -1,0 +1,205 @@
+{
+  "created_at_utc": "2026-09-24T09:39:04.410070+00:00",
+  "python_version": "3.13.1",
+  "sklearn_version": "1.9.1",
+  "pandas_version": "3.0.6",
+  "numpy_version": "2.5.3",
+  "random_seed": 42,
+  "split_plan": {
+    "version": 1,
+    "method": "Chronological month boundaries; preprocessing must be fit on training rows only.",
+    "hdb": {
+      "train": {
+        "through": "2022-12",
+        "rows": 889599
+      },
+      "validation": {
+        "from": "2023-01",
+        "through": "2024-12",
+        "rows": 53586
+      },
+      "test": {
+        "from": "2025-01",
+        "through": "2026-02",
+        "rows": 28338
+      },
+      "split_column": "data_split"
+    },
+    "ec": {
+      "train": {
+        "through": "2023-12",
+        "rows": 7418
+      },
+      "validation": {
+        "from": "2024-01",
+        "through": "2024-12",
+        "rows": 3245
+      },
+      "test": {
+        "from": "2025-01",
+        "through": "2026-09",
+        "rows": 5832
+      },
+      "split_column": "data_split"
+    },
+    "landed": {
+      "train": {
+        "through": "2023-12",
+        "rows": 3838
+      },
+      "validation": {
+        "from": "2024-01",
+        "through": "2024-12",
+        "rows": 1695
+      },
+      "test": {
+        "from": "2025-01",
+        "through": "2026-09",
+        "rows": 3207
+      },
+      "split_column": "data_split"
+    }
+  },
+  "expected_split_counts": {
+    "hdb": {
+      "train": 889599,
+      "validation": 53586,
+      "test": 28338
+    },
+    "ec": {
+      "train": 7418,
+      "validation": 3245,
+      "test": 5832
+    },
+    "landed": {
+      "train": 3838,
+      "validation": 1695,
+      "test": 3207
+    }
+  },
+  "models": {
+    "hdb": {
+      "selected_model": "hist_gradient_boosting",
+      "selected_variant_or_policy": "with_mrt",
+      "numeric_features": [
+        "floor_area_sqm",
+        "storey_midpoint",
+        "lease_commence_year",
+        "property_age_at_transaction",
+        "transaction_year",
+        "transaction_month",
+        "nearest_mrt_distance_m",
+        "mrt_distance_missing"
+      ],
+      "categorical_features": [
+        "town",
+        "flat_type",
+        "flat_model"
+      ],
+      "parameters": {
+        "early_stopping": false,
+        "interaction_cst": null,
+        "l2_regularization": 1.0,
+        "learning_rate": 0.08,
+        "loss": "absolute_error",
+        "max_bins": 255,
+        "max_depth": null,
+        "max_features": 1.0,
+        "max_iter": 180,
+        "max_leaf_nodes": 31,
+        "min_samples_leaf": 40,
+        "monotonic_cst": null,
+        "n_iter_no_change": 10,
+        "quantile": null,
+        "random_state": 42,
+        "scoring": "loss",
+        "tol": 1e-07,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      },
+      "artifact": "models/hdb_baseline_provisional.joblib"
+    },
+    "ec": {
+      "selected_model": "ridge",
+      "selected_variant_or_policy": "without_mrt",
+      "numeric_features": [
+        "area_sqm",
+        "number_of_units",
+        "floor_midpoint",
+        "lease_duration_years",
+        "property_age_at_transaction",
+        "transaction_year",
+        "transaction_month"
+      ],
+      "categorical_features": [
+        "project_name",
+        "sale_type",
+        "area_type",
+        "property_type",
+        "tenure_category",
+        "postal_district",
+        "market_segment"
+      ],
+      "parameters": {
+        "alpha": 10.0,
+        "copy_X": true,
+        "fit_intercept": true,
+        "max_iter": null,
+        "positive": false,
+        "random_state": null,
+        "solver": "lsqr",
+        "tol": 0.0001
+      },
+      "artifact": "models/ec_baseline_provisional.joblib"
+    },
+    "landed": {
+      "selected_model": "hist_gradient_boosting",
+      "selected_variant_or_policy": "exclude_multi_unit",
+      "numeric_features": [
+        "area_sqm",
+        "number_of_units",
+        "lease_duration_years",
+        "property_age_at_transaction",
+        "transaction_year",
+        "transaction_month",
+        "is_multi_unit_transaction"
+      ],
+      "categorical_features": [
+        "sale_type",
+        "area_type",
+        "property_type",
+        "tenure_category",
+        "postal_district",
+        "market_segment"
+      ],
+      "parameters": {
+        "early_stopping": false,
+        "interaction_cst": null,
+        "l2_regularization": 1.0,
+        "learning_rate": 0.08,
+        "loss": "absolute_error",
+        "max_bins": 255,
+        "max_depth": null,
+        "max_features": 1.0,
+        "max_iter": 250,
+        "max_leaf_nodes": 31,
+        "min_samples_leaf": 20,
+        "monotonic_cst": null,
+        "n_iter_no_change": 10,
+        "quantile": null,
+        "random_state": 42,
+        "scoring": "loss",
+        "tol": 1e-07,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      },
+      "artifact": "models/landed_baseline_provisional.joblib"
+    }
+  },
+  "hdb_permutation_sample_rows": 10000,
+  "ec_permutation_sample_rows": 5000,
+  "landed_permutation_sample_rows": "all selected-policy test rows",
+  "hdb_training_sampling": "none; all training rows used"
+}

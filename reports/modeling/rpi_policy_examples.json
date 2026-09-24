@@ -1,0 +1,17 @@
+{
+  "2026-03-01": {
+    "lagged_rpi": 203.6,
+    "rpi_source_quarter": "2025-Q4",
+    "is_latest_available_fallback": false
+  },
+  "2026-07-01": {
+    "lagged_rpi": 202.8,
+    "rpi_source_quarter": "2026-Q2",
+    "is_latest_available_fallback": false
+  },
+  "2027-01-01": {
+    "lagged_rpi": 202.8,
+    "rpi_source_quarter": "2026-Q2",
+    "is_latest_available_fallback": true
+  }
+}

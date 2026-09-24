@@ -1,0 +1,22 @@
+# Python / local environment
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+.DS_Store
+
+# Secrets
+.env
+
+# Original/source datasets
+data/raw/
+
+# Large/generated processed datasets
+data/processed/*
+
+# Small runtime artifacts required by Streamlit
+!data/processed/hdb_rpi.csv
+!data/processed/hdb_location_lookup.csv
+!data/processed/ui_reference_data.json
+!data/processed/market_summary.json

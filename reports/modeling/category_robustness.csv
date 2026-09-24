@@ -1,0 +1,12 @@
+category,column,rare_threshold,train_unique,validation_unique,unseen_validation_categories,unseen_validation_rows,unseen_validation_percent,rare_training_categories,validation_rows_in_rare_training_categories
+hdb,town,100,27,26,0,0,0.0,1,0
+hdb,flat_type,100,7,7,0,0,0.0,0,0
+hdb,flat_model,100,21,21,0,0,0.0,4,195
+ec,project_name,20,76,77,2,845,26.040061633281976,10,190
+ec,sale_type,20,2,2,0,0,0.0,0,0
+ec,property_type,20,1,1,0,0,0.0,0,0
+ec,postal_district,20,9,9,0,0,0.0,0,0
+ec,market_segment,20,2,2,0,0,0.0,1,9
+landed,property_type,20,3,3,0,0,0.0,0,0
+landed,postal_district,20,24,24,0,0,0.0,5,21
+landed,market_segment,20,3,3,0,0,0.0,0,0

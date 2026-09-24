@@ -1,0 +1,126 @@
+{
+  "status": "production_frozen",
+  "created_at_utc": "2026-09-24T09:52:27.801952+00:00",
+  "category": "hdb",
+  "target": "resale_price",
+  "experiment": "E_rpi_scaled_target_with_mrt",
+  "model_type": "IndexedTargetRegressor",
+  "features_in_order": [
+    "floor_area_sqm",
+    "storey_midpoint",
+    "lease_commence_year",
+    "property_age_at_transaction",
+    "months_since_1990",
+    "lagged_rpi",
+    "nearest_mrt_distance_m",
+    "mrt_distance_missing",
+    "town",
+    "flat_type",
+    "flat_model"
+  ],
+  "numeric_features": [
+    "floor_area_sqm",
+    "storey_midpoint",
+    "lease_commence_year",
+    "property_age_at_transaction",
+    "months_since_1990",
+    "lagged_rpi",
+    "nearest_mrt_distance_m",
+    "mrt_distance_missing"
+  ],
+  "categorical_features": [
+    "town",
+    "flat_type",
+    "flat_model"
+  ],
+  "preprocessing": "Training-fitted numeric median imputation; training-fitted categorical encoding; category-specific estimator.",
+  "fit_rows": 939597,
+  "training_period": "1990-01 through 2024-12",
+  "validation_selection_period": "2023-01 through 2024-12",
+  "test_period": "2025-01 through 2026-02",
+  "final_test_metrics": {
+    "category": "hdb",
+    "experiment": "E_rpi_scaled_target_with_mrt",
+    "evaluation_split": "test_once_after_freeze",
+    "rows": 28338,
+    "median_target": 628000.0,
+    "mae": 32723.361938073376,
+    "rmse": 46303.711963781876,
+    "r2": 0.9485474233338734,
+    "mae_percent_of_median": 5.210726423260091,
+    "mean_residual_prediction_minus_actual": 11800.354116064342,
+    "training_rows": 939597,
+    "mae_change_vs_milestone4": -87612.56713517263,
+    "rmse_change_vs_milestone4": -91957.33162283417,
+    "r2_change_vs_milestone4": 0.4072964690641052
+  },
+  "empirical_error_calibration": {
+    "strategy": "Select a broad band using the model prediction, then apply that band's historical held-out absolute-error percentile; fall back to global percentiles if a band is unavailable.",
+    "interpretation": "Historical prediction error range, not a formal confidence interval.",
+    "band_edges_sgd": [
+      null,
+      400000,
+      600000,
+      800000,
+      null
+    ],
+    "band_labels": [
+      "under_400k",
+      "400k_600k",
+      "600k_800k",
+      "800k_plus"
+    ],
+    "global": {
+      "median_absolute_error": 23007.068722765485,
+      "p80_absolute_error": 50709.32072263505,
+      "p90_absolute_error": 72725.92147987732,
+      "p95_absolute_error": 97757.59127998122
+    },
+    "by_predicted_price_band": {
+      "under_400k": {
+        "rows": 1943,
+        "p50": 13934.54435804591,
+        "p80": 27410.658678984644,
+        "p90": 36480.3023162589,
+        "p95": 44871.03752960495
+      },
+      "400k_600k": {
+        "rows": 9791,
+        "p50": 16836.063315817388,
+        "p80": 33634.375693390495,
+        "p90": 45612.66621964006,
+        "p95": 57579.58397048179
+      },
+      "600k_800k": {
+        "rows": 10187,
+        "p50": 24808.74983707629,
+        "p80": 49938.44740550784,
+        "p90": 66119.63563769762,
+        "p95": 81927.61288310493
+      },
+      "800k_plus": {
+        "rows": 6417,
+        "p50": 45300.37211910216,
+        "p80": 90880.86312208856,
+        "p90": 120545.95866217672,
+        "p95": 147513.36167569624
+      }
+    }
+  },
+  "mrt_usage": true,
+  "rpi_usage": true,
+  "inference_requirements": "See models/inference_contract.json",
+  "exclusions_and_limitations": [
+    "Not valuation advice",
+    "No private-condo or rental prediction",
+    "No coordinates as predictors",
+    "Category coverage follows supplied data"
+  ],
+  "versions": {
+    "python": "3.13.1",
+    "sklearn": "1.9.1",
+    "pandas": "3.0.6",
+    "numpy": "2.5.3"
+  },
+  "random_seed": 42
+}

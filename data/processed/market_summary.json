@@ -1,0 +1,4008 @@
+{
+  "version": 1,
+  "hdb": {
+    "monthly": [
+      {
+        "transaction_date": "1990-01-01",
+        "median_price": 50000.0,
+        "transactions": 1507
+      },
+      {
+        "transaction_date": "1990-02-01",
+        "median_price": 53000.0,
+        "transactions": 931
+      },
+      {
+        "transaction_date": "1990-03-01",
+        "median_price": 52000.0,
+        "transactions": 1150
+      },
+      {
+        "transaction_date": "1990-04-01",
+        "median_price": 50000.0,
+        "transactions": 1047
+      },
+      {
+        "transaction_date": "1990-05-01",
+        "median_price": 51250.0,
+        "transactions": 778
+      },
+      {
+        "transaction_date": "1990-06-01",
+        "median_price": 50000.0,
+        "transactions": 824
+      },
+      {
+        "transaction_date": "1990-07-01",
+        "median_price": 53000.0,
+        "transactions": 1405
+      },
+      {
+        "transaction_date": "1990-08-01",
+        "median_price": 52000.0,
+        "transactions": 1078
+      },
+      {
+        "transaction_date": "1990-09-01",
+        "median_price": 56700.0,
+        "transactions": 865
+      },
+      {
+        "transaction_date": "1990-10-01",
+        "median_price": 57000.0,
+        "transactions": 810
+      },
+      {
+        "transaction_date": "1990-11-01",
+        "median_price": 56000.0,
+        "transactions": 1090
+      },
+      {
+        "transaction_date": "1990-12-01",
+        "median_price": 54500.0,
+        "transactions": 1020
+      },
+      {
+        "transaction_date": "1991-01-01",
+        "median_price": 57000.0,
+        "transactions": 1253
+      },
+      {
+        "transaction_date": "1991-02-01",
+        "median_price": 52000.0,
+        "transactions": 816
+      },
+      {
+        "transaction_date": "1991-03-01",
+        "median_price": 55000.0,
+        "transactions": 854
+      },
+      {
+        "transaction_date": "1991-04-01",
+        "median_price": 52950.0,
+        "transactions": 920
+      },
+      {
+        "transaction_date": "1991-05-01",
+        "median_price": 58500.0,
+        "transactions": 945
+      },
+      {
+        "transaction_date": "1991-06-01",
+        "median_price": 57350.0,
+        "transactions": 836
+      },
+      {
+        "transaction_date": "1991-07-01",
+        "median_price": 60000.0,
+        "transactions": 1247
+      },
+      {
+        "transaction_date": "1991-08-01",
+        "median_price": 57000.0,
+        "transactions": 1163
+      },
+      {
+        "transaction_date": "1991-09-01",
+        "median_price": 59000.0,
+        "transactions": 1206
+      },
+      {
+        "transaction_date": "1991-10-01",
+        "median_price": 58000.0,
+        "transactions": 1183
+      },
+      {
+        "transaction_date": "1991-11-01",
+        "median_price": 55000.0,
+        "transactions": 1382
+      },
+      {
+        "transaction_date": "1991-12-01",
+        "median_price": 53000.0,
+        "transactions": 1050
+      },
+      {
+        "transaction_date": "1992-01-01",
+        "median_price": 56750.0,
+        "transactions": 1202
+      },
+      {
+        "transaction_date": "1992-02-01",
+        "median_price": 58000.0,
+        "transactions": 954
+      },
+      {
+        "transaction_date": "1992-03-01",
+        "median_price": 61000.0,
+        "transactions": 1113
+      },
+      {
+        "transaction_date": "1992-04-01",
+        "median_price": 62300.0,
+        "transactions": 1067
+      },
+      {
+        "transaction_date": "1992-05-01",
+        "median_price": 65000.0,
+        "transactions": 1140
+      },
+      {
+        "transaction_date": "1992-06-01",
+        "median_price": 62000.0,
+        "transactions": 1059
+      },
+      {
+        "transaction_date": "1992-07-01",
+        "median_price": 68000.0,
+        "transactions": 1294
+      },
+      {
+        "transaction_date": "1992-08-01",
+        "median_price": 68000.0,
+        "transactions": 1254
+      },
+      {
+        "transaction_date": "1992-09-01",
+        "median_price": 64000.0,
+        "transactions": 1396
+      },
+      {
+        "transaction_date": "1992-10-01",
+        "median_price": 68000.0,
+        "transactions": 1353
+      },
+      {
+        "transaction_date": "1992-11-01",
+        "median_price": 68000.0,
+        "transactions": 1376
+      },
+      {
+        "transaction_date": "1992-12-01",
+        "median_price": 68000.0,
+        "transactions": 1295
+      },
+      {
+        "transaction_date": "1993-01-01",
+        "median_price": 67750.0,
+        "transactions": 1142
+      },
+      {
+        "transaction_date": "1993-02-01",
+        "median_price": 66500.0,
+        "transactions": 1138
+      },
+      {
+        "transaction_date": "1993-03-01",
+        "median_price": 72000.0,
+        "transactions": 1113
+      },
+      {
+        "transaction_date": "1993-04-01",
+        "median_price": 72000.0,
+        "transactions": 1055
+      },
+      {
+        "transaction_date": "1993-05-01",
+        "median_price": 100000.0,
+        "transactions": 1149
+      },
+      {
+        "transaction_date": "1993-06-01",
+        "median_price": 107000.0,
+        "transactions": 1223
+      },
+      {
+        "transaction_date": "1993-07-01",
+        "median_price": 115000.0,
+        "transactions": 1431
+      },
+      {
+        "transaction_date": "1993-08-01",
+        "median_price": 121000.0,
+        "transactions": 1488
+      },
+      {
+        "transaction_date": "1993-09-01",
+        "median_price": 128000.0,
+        "transactions": 1740
+      },
+      {
+        "transaction_date": "1993-10-01",
+        "median_price": 133000.0,
+        "transactions": 1823
+      },
+      {
+        "transaction_date": "1993-11-01",
+        "median_price": 130000.0,
+        "transactions": 2526
+      },
+      {
+        "transaction_date": "1993-12-01",
+        "median_price": 138000.0,
+        "transactions": 2288
+      },
+      {
+        "transaction_date": "1994-01-01",
+        "median_price": 130000.0,
+        "transactions": 2674
+      },
+      {
+        "transaction_date": "1994-02-01",
+        "median_price": 140000.0,
+        "transactions": 2535
+      },
+      {
+        "transaction_date": "1994-03-01",
+        "median_price": 147500.0,
+        "transactions": 2791
+      },
+      {
+        "transaction_date": "1994-04-01",
+        "median_price": 140000.0,
+        "transactions": 2425
+      },
+      {
+        "transaction_date": "1994-05-01",
+        "median_price": 152000.0,
+        "transactions": 1905
+      },
+      {
+        "transaction_date": "1994-06-01",
+        "median_price": 155000.0,
+        "transactions": 2158
+      },
+      {
+        "transaction_date": "1994-07-01",
+        "median_price": 154000.0,
+        "transactions": 2153
+      },
+      {
+        "transaction_date": "1994-08-01",
+        "median_price": 160000.0,
+        "transactions": 2049
+      },
+      {
+        "transaction_date": "1994-09-01",
+        "median_price": 163000.0,
+        "transactions": 1838
+      },
+      {
+        "transaction_date": "1994-10-01",
+        "median_price": 165000.0,
+        "transactions": 1778
+      },
+      {
+        "transaction_date": "1994-11-01",
+        "median_price": 168000.0,
+        "transactions": 1827
+      },
+      {
+        "transaction_date": "1994-12-01",
+        "median_price": 163000.0,
+        "transactions": 2240
+      },
+      {
+        "transaction_date": "1995-01-01",
+        "median_price": 161000.0,
+        "transactions": 2095
+      },
+      {
+        "transaction_date": "1995-02-01",
+        "median_price": 168000.0,
+        "transactions": 1509
+      },
+      {
+        "transaction_date": "1995-03-01",
+        "median_price": 170000.0,
+        "transactions": 1813
+      },
+      {
+        "transaction_date": "1995-04-01",
+        "median_price": 174000.0,
+        "transactions": 1641
+      },
+      {
+        "transaction_date": "1995-05-01",
+        "median_price": 190000.0,
+        "transactions": 1680
+      },
+      {
+        "transaction_date": "1995-06-01",
+        "median_price": 184000.0,
+        "transactions": 1911
+      },
+      {
+        "transaction_date": "1995-07-01",
+        "median_price": 190000.0,
+        "transactions": 2324
+      },
+      {
+        "transaction_date": "1995-08-01",
+        "median_price": 200000.0,
+        "transactions": 2483
+      },
+      {
+        "transaction_date": "1995-09-01",
+        "median_price": 198500.0,
+        "transactions": 2554
+      },
+      {
+        "transaction_date": "1995-10-01",
+        "median_price": 205000.0,
+        "transactions": 3025
+      },
+      {
+        "transaction_date": "1995-11-01",
+        "median_price": 210000.0,
+        "transactions": 3164
+      },
+      {
+        "transaction_date": "1995-12-01",
+        "median_price": 215250.0,
+        "transactions": 3090
+      },
+      {
+        "transaction_date": "1996-01-01",
+        "median_price": 220500.0,
+        "transactions": 3304
+      },
+      {
+        "transaction_date": "1996-02-01",
+        "median_price": 225000.0,
+        "transactions": 2313
+      },
+      {
+        "transaction_date": "1996-03-01",
+        "median_price": 235000.0,
+        "transactions": 2961
+      },
+      {
+        "transaction_date": "1996-04-01",
+        "median_price": 236000.0,
+        "transactions": 2518
+      },
+      {
+        "transaction_date": "1996-05-01",
+        "median_price": 240000.0,
+        "transactions": 2812
+      },
+      {
+        "transaction_date": "1996-06-01",
+        "median_price": 250000.0,
+        "transactions": 2928
+      },
+      {
+        "transaction_date": "1996-07-01",
+        "median_price": 270000.0,
+        "transactions": 3095
+      },
+      {
+        "transaction_date": "1996-08-01",
+        "median_price": 268000.0,
+        "transactions": 3073
+      },
+      {
+        "transaction_date": "1996-09-01",
+        "median_price": 264250.0,
+        "transactions": 2818
+      },
+      {
+        "transaction_date": "1996-10-01",
+        "median_price": 263000.0,
+        "transactions": 3501
+      },
+      {
+        "transaction_date": "1996-11-01",
+        "median_price": 272000.0,
+        "transactions": 2817
+      },
+      {
+        "transaction_date": "1996-12-01",
+        "median_price": 280000.0,
+        "transactions": 2779
+      },
+      {
+        "transaction_date": "1997-01-01",
+        "median_price": 290000.0,
+        "transactions": 2540
+      },
+      {
+        "transaction_date": "1997-02-01",
+        "median_price": 298000.0,
+        "transactions": 2186
+      },
+      {
+        "transaction_date": "1997-03-01",
+        "median_price": 298000.0,
+        "transactions": 2654
+      },
+      {
+        "transaction_date": "1997-04-01",
+        "median_price": 300000.0,
+        "transactions": 2871
+      },
+      {
+        "transaction_date": "1997-05-01",
+        "median_price": 300000.0,
+        "transactions": 3217
+      },
+      {
+        "transaction_date": "1997-06-01",
+        "median_price": 308000.0,
+        "transactions": 2808
+      },
+      {
+        "transaction_date": "1997-07-01",
+        "median_price": 296000.0,
+        "transactions": 2906
+      },
+      {
+        "transaction_date": "1997-08-01",
+        "median_price": 287000.0,
+        "transactions": 2556
+      },
+      {
+        "transaction_date": "1997-09-01",
+        "median_price": 290500.0,
+        "transactions": 2399
+      },
+      {
+        "transaction_date": "1997-10-01",
+        "median_price": 282000.0,
+        "transactions": 2738
+      },
+      {
+        "transaction_date": "1997-11-01",
+        "median_price": 276000.0,
+        "transactions": 2176
+      },
+      {
+        "transaction_date": "1997-12-01",
+        "median_price": 263000.0,
+        "transactions": 2708
+      },
+      {
+        "transaction_date": "1998-01-01",
+        "median_price": 265000.0,
+        "transactions": 2932
+      },
+      {
+        "transaction_date": "1998-02-01",
+        "median_price": 258000.0,
+        "transactions": 3490
+      },
+      {
+        "transaction_date": "1998-03-01",
+        "median_price": 252000.0,
+        "transactions": 3695
+      },
+      {
+        "transaction_date": "1998-04-01",
+        "median_price": 252000.0,
+        "transactions": 3905
+      },
+      {
+        "transaction_date": "1998-05-01",
+        "median_price": 247000.0,
+        "transactions": 3729
+      },
+      {
+        "transaction_date": "1998-06-01",
+        "median_price": 243000.0,
+        "transactions": 4053
+      },
+      {
+        "transaction_date": "1998-07-01",
+        "median_price": 243000.0,
+        "transactions": 4397
+      },
+      {
+        "transaction_date": "1998-08-01",
+        "median_price": 238000.0,
+        "transactions": 4444
+      },
+      {
+        "transaction_date": "1998-09-01",
+        "median_price": 237000.0,
+        "transactions": 4760
+      },
+      {
+        "transaction_date": "1998-10-01",
+        "median_price": 235000.0,
+        "transactions": 5709
+      },
+      {
+        "transaction_date": "1998-11-01",
+        "median_price": 227000.0,
+        "transactions": 4993
+      },
+      {
+        "transaction_date": "1998-12-01",
+        "median_price": 221000.0,
+        "transactions": 4988
+      },
+      {
+        "transaction_date": "1999-01-01",
+        "median_price": 222000.0,
+        "transactions": 4802
+      },
+      {
+        "transaction_date": "1999-02-01",
+        "median_price": 225000.0,
+        "transactions": 4834
+      },
+      {
+        "transaction_date": "1999-03-01",
+        "median_price": 226000.0,
+        "transactions": 6465
+      },
+      {
+        "transaction_date": "1999-04-01",
+        "median_price": 231000.0,
+        "transactions": 5698
+      },
+      {
+        "transaction_date": "1999-05-01",
+        "median_price": 232000.0,
+        "transactions": 5671
+      },
+      {
+        "transaction_date": "1999-06-01",
+        "median_price": 232000.0,
+        "transactions": 5861
+      },
+      {
+        "transaction_date": "1999-07-01",
+        "median_price": 240000.0,
+        "transactions": 5493
+      },
+      {
+        "transaction_date": "1999-08-01",
+        "median_price": 246000.0,
+        "transactions": 5209
+      },
+      {
+        "transaction_date": "1999-09-01",
+        "median_price": 250000.0,
+        "transactions": 3796
+      },
+      {
+        "transaction_date": "1999-10-01",
+        "median_price": 253000.0,
+        "transactions": 3783
+      },
+      {
+        "transaction_date": "1999-11-01",
+        "median_price": 258000.0,
+        "transactions": 3358
+      },
+      {
+        "transaction_date": "1999-12-01",
+        "median_price": 244000.0,
+        "transactions": 2812
+      },
+      {
+        "transaction_date": "2000-01-01",
+        "median_price": 252000.0,
+        "transactions": 2386
+      },
+      {
+        "transaction_date": "2000-02-01",
+        "median_price": 253000.0,
+        "transactions": 2313
+      },
+      {
+        "transaction_date": "2000-03-01",
+        "median_price": 253000.0,
+        "transactions": 2467
+      },
+      {
+        "transaction_date": "2000-04-01",
+        "median_price": 250000.0,
+        "transactions": 2548
+      },
+      {
+        "transaction_date": "2000-05-01",
+        "median_price": 245000.0,
+        "transactions": 3230
+      },
+      {
+        "transaction_date": "2000-06-01",
+        "median_price": 240000.0,
+        "transactions": 3283
+      },
+      {
+        "transaction_date": "2000-07-01",
+        "median_price": 234000.0,
+        "transactions": 2988
+      },
+      {
+        "transaction_date": "2000-08-01",
+        "median_price": 235000.0,
+        "transactions": 3166
+      },
+      {
+        "transaction_date": "2000-09-01",
+        "median_price": 235000.0,
+        "transactions": 3088
+      },
+      {
+        "transaction_date": "2000-10-01",
+        "median_price": 234000.0,
+        "transactions": 3231
+      },
+      {
+        "transaction_date": "2000-11-01",
+        "median_price": 230000.0,
+        "transactions": 3324
+      },
+      {
+        "transaction_date": "2000-12-01",
+        "median_price": 226000.0,
+        "transactions": 2838
+      },
+      {
+        "transaction_date": "2001-01-01",
+        "median_price": 230000.0,
+        "transactions": 2790
+      },
+      {
+        "transaction_date": "2001-02-01",
+        "median_price": 228000.0,
+        "transactions": 2885
+      },
+      {
+        "transaction_date": "2001-03-01",
+        "median_price": 229000.0,
+        "transactions": 3147
+      },
+      {
+        "transaction_date": "2001-04-01",
+        "median_price": 226250.0,
+        "transactions": 3092
+      },
+      {
+        "transaction_date": "2001-05-01",
+        "median_price": 228000.0,
+        "transactions": 3106
+      },
+      {
+        "transaction_date": "2001-06-01",
+        "median_price": 223080.0,
+        "transactions": 3329
+      },
+      {
+        "transaction_date": "2001-07-01",
+        "median_price": 225000.0,
+        "transactions": 3398
+      },
+      {
+        "transaction_date": "2001-08-01",
+        "median_price": 229000.0,
+        "transactions": 3244
+      },
+      {
+        "transaction_date": "2001-09-01",
+        "median_price": 226000.0,
+        "transactions": 3220
+      },
+      {
+        "transaction_date": "2001-10-01",
+        "median_price": 221500.0,
+        "transactions": 3490
+      },
+      {
+        "transaction_date": "2001-11-01",
+        "median_price": 216000.0,
+        "transactions": 3349
+      },
+      {
+        "transaction_date": "2001-12-01",
+        "median_price": 216000.0,
+        "transactions": 3005
+      },
+      {
+        "transaction_date": "2002-01-01",
+        "median_price": 215000.0,
+        "transactions": 3385
+      },
+      {
+        "transaction_date": "2002-02-01",
+        "median_price": 215000.0,
+        "transactions": 2633
+      },
+      {
+        "transaction_date": "2002-03-01",
+        "median_price": 215000.0,
+        "transactions": 3115
+      },
+      {
+        "transaction_date": "2002-04-01",
+        "median_price": 218000.0,
+        "transactions": 3300
+      },
+      {
+        "transaction_date": "2002-05-01",
+        "median_price": 222000.0,
+        "transactions": 3298
+      },
+      {
+        "transaction_date": "2002-06-01",
+        "median_price": 220000.0,
+        "transactions": 2836
+      },
+      {
+        "transaction_date": "2002-07-01",
+        "median_price": 215000.0,
+        "transactions": 3282
+      },
+      {
+        "transaction_date": "2002-08-01",
+        "median_price": 208000.0,
+        "transactions": 2829
+      },
+      {
+        "transaction_date": "2002-09-01",
+        "median_price": 220000.0,
+        "transactions": 2749
+      },
+      {
+        "transaction_date": "2002-10-01",
+        "median_price": 214000.0,
+        "transactions": 3156
+      },
+      {
+        "transaction_date": "2002-11-01",
+        "median_price": 213000.0,
+        "transactions": 2831
+      },
+      {
+        "transaction_date": "2002-12-01",
+        "median_price": 210150.0,
+        "transactions": 2684
+      },
+      {
+        "transaction_date": "2003-01-01",
+        "median_price": 209000.0,
+        "transactions": 2705
+      },
+      {
+        "transaction_date": "2003-02-01",
+        "median_price": 210000.0,
+        "transactions": 1858
+      },
+      {
+        "transaction_date": "2003-03-01",
+        "median_price": 215750.0,
+        "transactions": 2270
+      },
+      {
+        "transaction_date": "2003-04-01",
+        "median_price": 213000.0,
+        "transactions": 2160
+      },
+      {
+        "transaction_date": "2003-05-01",
+        "median_price": 213000.0,
+        "transactions": 2272
+      },
+      {
+        "transaction_date": "2003-06-01",
+        "median_price": 213000.0,
+        "transactions": 2162
+      },
+      {
+        "transaction_date": "2003-07-01",
+        "median_price": 220000.0,
+        "transactions": 2273
+      },
+      {
+        "transaction_date": "2003-08-01",
+        "median_price": 217000.0,
+        "transactions": 2195
+      },
+      {
+        "transaction_date": "2003-09-01",
+        "median_price": 220000.0,
+        "transactions": 2423
+      },
+      {
+        "transaction_date": "2003-10-01",
+        "median_price": 220000.0,
+        "transactions": 2849
+      },
+      {
+        "transaction_date": "2003-11-01",
+        "median_price": 220000.0,
+        "transactions": 2801
+      },
+      {
+        "transaction_date": "2003-12-01",
+        "median_price": 220000.0,
+        "transactions": 3035
+      },
+      {
+        "transaction_date": "2004-01-01",
+        "median_price": 220000.0,
+        "transactions": 2659
+      },
+      {
+        "transaction_date": "2004-02-01",
+        "median_price": 220000.0,
+        "transactions": 2757
+      },
+      {
+        "transaction_date": "2004-03-01",
+        "median_price": 225000.0,
+        "transactions": 2775
+      },
+      {
+        "transaction_date": "2004-04-01",
+        "median_price": 225000.0,
+        "transactions": 2195
+      },
+      {
+        "transaction_date": "2004-05-01",
+        "median_price": 225000.0,
+        "transactions": 2143
+      },
+      {
+        "transaction_date": "2004-06-01",
+        "median_price": 228000.0,
+        "transactions": 2206
+      },
+      {
+        "transaction_date": "2004-07-01",
+        "median_price": 222000.0,
+        "transactions": 2321
+      },
+      {
+        "transaction_date": "2004-08-01",
+        "median_price": 220000.0,
+        "transactions": 2238
+      },
+      {
+        "transaction_date": "2004-09-01",
+        "median_price": 220000.0,
+        "transactions": 2382
+      },
+      {
+        "transaction_date": "2004-10-01",
+        "median_price": 226000.0,
+        "transactions": 2441
+      },
+      {
+        "transaction_date": "2004-11-01",
+        "median_price": 226750.0,
+        "transactions": 2426
+      },
+      {
+        "transaction_date": "2004-12-01",
+        "median_price": 221000.0,
+        "transactions": 2569
+      },
+      {
+        "transaction_date": "2005-01-01",
+        "median_price": 223000.0,
+        "transactions": 2754
+      },
+      {
+        "transaction_date": "2005-02-01",
+        "median_price": 230000.0,
+        "transactions": 2316
+      },
+      {
+        "transaction_date": "2005-03-01",
+        "median_price": 225000.0,
+        "transactions": 2977
+      },
+      {
+        "transaction_date": "2005-04-01",
+        "median_price": 228000.0,
+        "transactions": 2491
+      },
+      {
+        "transaction_date": "2005-05-01",
+        "median_price": 225000.0,
+        "transactions": 2320
+      },
+      {
+        "transaction_date": "2005-06-01",
+        "median_price": 224000.0,
+        "transactions": 2564
+      },
+      {
+        "transaction_date": "2005-07-01",
+        "median_price": 221000.0,
+        "transactions": 2375
+      },
+      {
+        "transaction_date": "2005-08-01",
+        "median_price": 222000.0,
+        "transactions": 2559
+      },
+      {
+        "transaction_date": "2005-09-01",
+        "median_price": 222750.0,
+        "transactions": 2512
+      },
+      {
+        "transaction_date": "2005-10-01",
+        "median_price": 228000.0,
+        "transactions": 2506
+      },
+      {
+        "transaction_date": "2005-11-01",
+        "median_price": 227000.0,
+        "transactions": 2408
+      },
+      {
+        "transaction_date": "2005-12-01",
+        "median_price": 230000.0,
+        "transactions": 2263
+      },
+      {
+        "transaction_date": "2006-01-01",
+        "median_price": 225588.0,
+        "transactions": 2039
+      },
+      {
+        "transaction_date": "2006-02-01",
+        "median_price": 227000.0,
+        "transactions": 2183
+      },
+      {
+        "transaction_date": "2006-03-01",
+        "median_price": 227000.0,
+        "transactions": 2463
+      },
+      {
+        "transaction_date": "2006-04-01",
+        "median_price": 231000.0,
+        "transactions": 2093
+      },
+      {
+        "transaction_date": "2006-05-01",
+        "median_price": 228000.0,
+        "transactions": 2406
+      },
+      {
+        "transaction_date": "2006-06-01",
+        "median_price": 227000.0,
+        "transactions": 2546
+      },
+      {
+        "transaction_date": "2006-07-01",
+        "median_price": 226650.0,
+        "transactions": 2400
+      },
+      {
+        "transaction_date": "2006-08-01",
+        "median_price": 228650.0,
+        "transactions": 2452
+      },
+      {
+        "transaction_date": "2006-09-01",
+        "median_price": 228000.0,
+        "transactions": 2418
+      },
+      {
+        "transaction_date": "2006-10-01",
+        "median_price": 227000.0,
+        "transactions": 2190
+      },
+      {
+        "transaction_date": "2006-11-01",
+        "median_price": 226650.0,
+        "transactions": 2284
+      },
+      {
+        "transaction_date": "2006-12-01",
+        "median_price": 228000.0,
+        "transactions": 1953
+      },
+      {
+        "transaction_date": "2007-01-01",
+        "median_price": 236000.0,
+        "transactions": 2289
+      },
+      {
+        "transaction_date": "2007-02-01",
+        "median_price": 235000.0,
+        "transactions": 1933
+      },
+      {
+        "transaction_date": "2007-03-01",
+        "median_price": 239000.0,
+        "transactions": 2364
+      },
+      {
+        "transaction_date": "2007-04-01",
+        "median_price": 235000.0,
+        "transactions": 2066
+      },
+      {
+        "transaction_date": "2007-05-01",
+        "median_price": 240000.0,
+        "transactions": 2164
+      },
+      {
+        "transaction_date": "2007-06-01",
+        "median_price": 248000.0,
+        "transactions": 2224
+      },
+      {
+        "transaction_date": "2007-07-01",
+        "median_price": 252000.0,
+        "transactions": 2364
+      },
+      {
+        "transaction_date": "2007-08-01",
+        "median_price": 257000.0,
+        "transactions": 2523
+      },
+      {
+        "transaction_date": "2007-09-01",
+        "median_price": 260100.0,
+        "transactions": 2361
+      },
+      {
+        "transaction_date": "2007-10-01",
+        "median_price": 266000.0,
+        "transactions": 2442
+      },
+      {
+        "transaction_date": "2007-11-01",
+        "median_price": 265000.0,
+        "transactions": 2322
+      },
+      {
+        "transaction_date": "2007-12-01",
+        "median_price": 270000.0,
+        "transactions": 1930
+      },
+      {
+        "transaction_date": "2008-01-01",
+        "median_price": 285000.0,
+        "transactions": 2285
+      },
+      {
+        "transaction_date": "2008-02-01",
+        "median_price": 277750.0,
+        "transactions": 2028
+      },
+      {
+        "transaction_date": "2008-03-01",
+        "median_price": 288888.0,
+        "transactions": 2145
+      },
+      {
+        "transaction_date": "2008-04-01",
+        "median_price": 292000.0,
+        "transactions": 2341
+      },
+      {
+        "transaction_date": "2008-05-01",
+        "median_price": 298000.0,
+        "transactions": 2178
+      },
+      {
+        "transaction_date": "2008-06-01",
+        "median_price": 303000.0,
+        "transactions": 2270
+      },
+      {
+        "transaction_date": "2008-07-01",
+        "median_price": 313000.0,
+        "transactions": 2458
+      },
+      {
+        "transaction_date": "2008-08-01",
+        "median_price": 310000.0,
+        "transactions": 2197
+      },
+      {
+        "transaction_date": "2008-09-01",
+        "median_price": 320000.0,
+        "transactions": 2492
+      },
+      {
+        "transaction_date": "2008-10-01",
+        "median_price": 320000.0,
+        "transactions": 2395
+      },
+      {
+        "transaction_date": "2008-11-01",
+        "median_price": 325000.0,
+        "transactions": 2424
+      },
+      {
+        "transaction_date": "2008-12-01",
+        "median_price": 322000.0,
+        "transactions": 2049
+      },
+      {
+        "transaction_date": "2009-01-01",
+        "median_price": 315000.0,
+        "transactions": 2006
+      },
+      {
+        "transaction_date": "2009-02-01",
+        "median_price": 310000.0,
+        "transactions": 1817
+      },
+      {
+        "transaction_date": "2009-03-01",
+        "median_price": 310000.0,
+        "transactions": 2480
+      },
+      {
+        "transaction_date": "2009-04-01",
+        "median_price": 315000.0,
+        "transactions": 2299
+      },
+      {
+        "transaction_date": "2009-05-01",
+        "median_price": 318000.0,
+        "transactions": 2222
+      },
+      {
+        "transaction_date": "2009-06-01",
+        "median_price": 320000.0,
+        "transactions": 2440
+      },
+      {
+        "transaction_date": "2009-07-01",
+        "median_price": 328000.0,
+        "transactions": 2672
+      },
+      {
+        "transaction_date": "2009-08-01",
+        "median_price": 335000.0,
+        "transactions": 2550
+      },
+      {
+        "transaction_date": "2009-09-01",
+        "median_price": 333000.0,
+        "transactions": 2916
+      },
+      {
+        "transaction_date": "2009-10-01",
+        "median_price": 347000.0,
+        "transactions": 3432
+      },
+      {
+        "transaction_date": "2009-11-01",
+        "median_price": 345000.0,
+        "transactions": 2853
+      },
+      {
+        "transaction_date": "2009-12-01",
+        "median_price": 350000.0,
+        "transactions": 2795
+      },
+      {
+        "transaction_date": "2010-01-01",
+        "median_price": 347000.0,
+        "transactions": 2825
+      },
+      {
+        "transaction_date": "2010-02-01",
+        "median_price": 348000.0,
+        "transactions": 2418
+      },
+      {
+        "transaction_date": "2010-03-01",
+        "median_price": 350000.0,
+        "transactions": 3264
+      },
+      {
+        "transaction_date": "2010-04-01",
+        "median_price": 351500.0,
+        "transactions": 3036
+      },
+      {
+        "transaction_date": "2010-05-01",
+        "median_price": 360000.0,
+        "transactions": 2812
+      },
+      {
+        "transaction_date": "2010-06-01",
+        "median_price": 363000.0,
+        "transactions": 3517
+      },
+      {
+        "transaction_date": "2010-07-01",
+        "median_price": 370500.0,
+        "transactions": 3679
+      },
+      {
+        "transaction_date": "2010-08-01",
+        "median_price": 374500.0,
+        "transactions": 3298
+      },
+      {
+        "transaction_date": "2010-09-01",
+        "median_price": 385000.0,
+        "transactions": 3002
+      },
+      {
+        "transaction_date": "2010-10-01",
+        "median_price": 386000.0,
+        "transactions": 2773
+      },
+      {
+        "transaction_date": "2010-11-01",
+        "median_price": 382444.0,
+        "transactions": 2208
+      },
+      {
+        "transaction_date": "2010-12-01",
+        "median_price": 385000.0,
+        "transactions": 2022
+      },
+      {
+        "transaction_date": "2011-01-01",
+        "median_price": 388000.0,
+        "transactions": 2131
+      },
+      {
+        "transaction_date": "2011-02-01",
+        "median_price": 397000.0,
+        "transactions": 1747
+      },
+      {
+        "transaction_date": "2011-03-01",
+        "median_price": 395000.0,
+        "transactions": 1991
+      },
+      {
+        "transaction_date": "2011-04-01",
+        "median_price": 398000.0,
+        "transactions": 1980
+      },
+      {
+        "transaction_date": "2011-05-01",
+        "median_price": 403000.0,
+        "transactions": 1958
+      },
+      {
+        "transaction_date": "2011-06-01",
+        "median_price": 408944.0,
+        "transactions": 2026
+      },
+      {
+        "transaction_date": "2011-07-01",
+        "median_price": 415000.0,
+        "transactions": 1996
+      },
+      {
+        "transaction_date": "2011-08-01",
+        "median_price": 419500.0,
+        "transactions": 1730
+      },
+      {
+        "transaction_date": "2011-09-01",
+        "median_price": 420000.0,
+        "transactions": 1790
+      },
+      {
+        "transaction_date": "2011-10-01",
+        "median_price": 432000.0,
+        "transactions": 1615
+      },
+      {
+        "transaction_date": "2011-11-01",
+        "median_price": 425000.0,
+        "transactions": 1745
+      },
+      {
+        "transaction_date": "2011-12-01",
+        "median_price": 433250.0,
+        "transactions": 1572
+      },
+      {
+        "transaction_date": "2012-01-01",
+        "median_price": 432888.0,
+        "transactions": 1559
+      },
+      {
+        "transaction_date": "2012-02-01",
+        "median_price": 430000.0,
+        "transactions": 1629
+      },
+      {
+        "transaction_date": "2012-03-01",
+        "median_price": 435000.0,
+        "transactions": 2360
+      },
+      {
+        "transaction_date": "2012-04-01",
+        "median_price": 436000.0,
+        "transactions": 2155
+      },
+      {
+        "transaction_date": "2012-05-01",
+        "median_price": 440000.0,
+        "transactions": 2323
+      },
+      {
+        "transaction_date": "2012-06-01",
+        "median_price": 443000.0,
+        "transactions": 1993
+      },
+      {
+        "transaction_date": "2012-07-01",
+        "median_price": 442800.0,
+        "transactions": 2179
+      },
+      {
+        "transaction_date": "2012-08-01",
+        "median_price": 450000.0,
+        "transactions": 2075
+      },
+      {
+        "transaction_date": "2012-09-01",
+        "median_price": 455000.0,
+        "transactions": 1760
+      },
+      {
+        "transaction_date": "2012-10-01",
+        "median_price": 457000.0,
+        "transactions": 1937
+      },
+      {
+        "transaction_date": "2012-11-01",
+        "median_price": 456000.0,
+        "transactions": 1735
+      },
+      {
+        "transaction_date": "2012-12-01",
+        "median_price": 458000.0,
+        "transactions": 1493
+      },
+      {
+        "transaction_date": "2013-01-01",
+        "median_price": 460000.0,
+        "transactions": 1633
+      },
+      {
+        "transaction_date": "2013-02-01",
+        "median_price": 452000.0,
+        "transactions": 886
+      },
+      {
+        "transaction_date": "2013-03-01",
+        "median_price": 455000.0,
+        "transactions": 1306
+      },
+      {
+        "transaction_date": "2013-04-01",
+        "median_price": 470000.0,
+        "transactions": 1692
+      },
+      {
+        "transaction_date": "2013-05-01",
+        "median_price": 463000.0,
+        "transactions": 1605
+      },
+      {
+        "transaction_date": "2013-06-01",
+        "median_price": 458000.0,
+        "transactions": 1317
+      },
+      {
+        "transaction_date": "2013-07-01",
+        "median_price": 460000.0,
+        "transactions": 1484
+      },
+      {
+        "transaction_date": "2013-08-01",
+        "median_price": 458888.5,
+        "transactions": 1354
+      },
+      {
+        "transaction_date": "2013-09-01",
+        "median_price": 450000.0,
+        "transactions": 1212
+      },
+      {
+        "transaction_date": "2013-10-01",
+        "median_price": 448000.0,
+        "transactions": 1391
+      },
+      {
+        "transaction_date": "2013-11-01",
+        "median_price": 442000.0,
+        "transactions": 1209
+      },
+      {
+        "transaction_date": "2013-12-01",
+        "median_price": 440000.0,
+        "transactions": 1008
+      },
+      {
+        "transaction_date": "2014-01-01",
+        "median_price": 435000.0,
+        "transactions": 1098
+      },
+      {
+        "transaction_date": "2014-02-01",
+        "median_price": 425000.0,
+        "transactions": 959
+      },
+      {
+        "transaction_date": "2014-03-01",
+        "median_price": 430000.0,
+        "transactions": 1444
+      },
+      {
+        "transaction_date": "2014-04-01",
+        "median_price": 425000.0,
+        "transactions": 1557
+      },
+      {
+        "transaction_date": "2014-05-01",
+        "median_price": 420000.0,
+        "transactions": 1447
+      },
+      {
+        "transaction_date": "2014-06-01",
+        "median_price": 420000.0,
+        "transactions": 1223
+      },
+      {
+        "transaction_date": "2014-07-01",
+        "median_price": 414400.0,
+        "transactions": 1352
+      },
+      {
+        "transaction_date": "2014-08-01",
+        "median_price": 420000.0,
+        "transactions": 1329
+      },
+      {
+        "transaction_date": "2014-09-01",
+        "median_price": 410000.0,
+        "transactions": 1472
+      },
+      {
+        "transaction_date": "2014-10-01",
+        "median_price": 417000.0,
+        "transactions": 1560
+      },
+      {
+        "transaction_date": "2014-11-01",
+        "median_price": 408000.0,
+        "transactions": 1351
+      },
+      {
+        "transaction_date": "2014-12-01",
+        "median_price": 410000.0,
+        "transactions": 1304
+      },
+      {
+        "transaction_date": "2015-01-01",
+        "median_price": 415000.0,
+        "transactions": 1250
+      },
+      {
+        "transaction_date": "2015-02-01",
+        "median_price": 405000.0,
+        "transactions": 1151
+      },
+      {
+        "transaction_date": "2015-03-01",
+        "median_price": 403000.0,
+        "transactions": 1348
+      },
+      {
+        "transaction_date": "2015-04-01",
+        "median_price": 406000.0,
+        "transactions": 1630
+      },
+      {
+        "transaction_date": "2015-05-01",
+        "median_price": 410000.0,
+        "transactions": 1567
+      },
+      {
+        "transaction_date": "2015-06-01",
+        "median_price": 405000.0,
+        "transactions": 1706
+      },
+      {
+        "transaction_date": "2015-07-01",
+        "median_price": 405000.0,
+        "transactions": 1551
+      },
+      {
+        "transaction_date": "2015-08-01",
+        "median_price": 403000.0,
+        "transactions": 1449
+      },
+      {
+        "transaction_date": "2015-09-01",
+        "median_price": 405500.0,
+        "transactions": 1498
+      },
+      {
+        "transaction_date": "2015-10-01",
+        "median_price": 400000.0,
+        "transactions": 1748
+      },
+      {
+        "transaction_date": "2015-11-01",
+        "median_price": 408000.0,
+        "transactions": 1470
+      },
+      {
+        "transaction_date": "2015-12-01",
+        "median_price": 410000.0,
+        "transactions": 1412
+      },
+      {
+        "transaction_date": "2016-01-01",
+        "median_price": 400000.0,
+        "transactions": 1280
+      },
+      {
+        "transaction_date": "2016-02-01",
+        "median_price": 405500.0,
+        "transactions": 1200
+      },
+      {
+        "transaction_date": "2016-03-01",
+        "median_price": 410000.0,
+        "transactions": 1655
+      },
+      {
+        "transaction_date": "2016-04-01",
+        "median_price": 410000.0,
+        "transactions": 1824
+      },
+      {
+        "transaction_date": "2016-05-01",
+        "median_price": 414000.0,
+        "transactions": 1829
+      },
+      {
+        "transaction_date": "2016-06-01",
+        "median_price": 408000.0,
+        "transactions": 1827
+      },
+      {
+        "transaction_date": "2016-07-01",
+        "median_price": 416750.0,
+        "transactions": 1572
+      },
+      {
+        "transaction_date": "2016-08-01",
+        "median_price": 403000.0,
+        "transactions": 1882
+      },
+      {
+        "transaction_date": "2016-09-01",
+        "median_price": 410000.0,
+        "transactions": 1668
+      },
+      {
+        "transaction_date": "2016-10-01",
+        "median_price": 408500.0,
+        "transactions": 1678
+      },
+      {
+        "transaction_date": "2016-11-01",
+        "median_price": 410000.0,
+        "transactions": 1580
+      },
+      {
+        "transaction_date": "2016-12-01",
+        "median_price": 410000.0,
+        "transactions": 1378
+      },
+      {
+        "transaction_date": "2017-01-01",
+        "median_price": 405000.0,
+        "transactions": 1185
+      },
+      {
+        "transaction_date": "2017-02-01",
+        "median_price": 415000.0,
+        "transactions": 1085
+      },
+      {
+        "transaction_date": "2017-03-01",
+        "median_price": 415000.0,
+        "transactions": 1903
+      },
+      {
+        "transaction_date": "2017-04-01",
+        "median_price": 408000.0,
+        "transactions": 1839
+      },
+      {
+        "transaction_date": "2017-05-01",
+        "median_price": 410000.0,
+        "transactions": 1980
+      },
+      {
+        "transaction_date": "2017-06-01",
+        "median_price": 415000.0,
+        "transactions": 1747
+      },
+      {
+        "transaction_date": "2017-07-01",
+        "median_price": 405000.0,
+        "transactions": 1780
+      },
+      {
+        "transaction_date": "2017-08-01",
+        "median_price": 415000.0,
+        "transactions": 1960
+      },
+      {
+        "transaction_date": "2017-09-01",
+        "median_price": 418000.0,
+        "transactions": 1680
+      },
+      {
+        "transaction_date": "2017-10-01",
+        "median_price": 410000.0,
+        "transactions": 1785
+      },
+      {
+        "transaction_date": "2017-11-01",
+        "median_price": 410000.0,
+        "transactions": 1980
+      },
+      {
+        "transaction_date": "2017-12-01",
+        "median_price": 418000.0,
+        "transactions": 1585
+      },
+      {
+        "transaction_date": "2018-01-01",
+        "median_price": 415000.0,
+        "transactions": 1072
+      },
+      {
+        "transaction_date": "2018-02-01",
+        "median_price": 408000.0,
+        "transactions": 1183
+      },
+      {
+        "transaction_date": "2018-03-01",
+        "median_price": 418000.0,
+        "transactions": 1881
+      },
+      {
+        "transaction_date": "2018-04-01",
+        "median_price": 410000.0,
+        "transactions": 1838
+      },
+      {
+        "transaction_date": "2018-05-01",
+        "median_price": 412000.0,
+        "transactions": 1740
+      },
+      {
+        "transaction_date": "2018-06-01",
+        "median_price": 410000.0,
+        "transactions": 1975
+      },
+      {
+        "transaction_date": "2018-07-01",
+        "median_price": 415000.0,
+        "transactions": 2539
+      },
+      {
+        "transaction_date": "2018-08-01",
+        "median_price": 405000.0,
+        "transactions": 2067
+      },
+      {
+        "transaction_date": "2018-09-01",
+        "median_price": 400000.0,
+        "transactions": 1985
+      },
+      {
+        "transaction_date": "2018-10-01",
+        "median_price": 398500.0,
+        "transactions": 1992
+      },
+      {
+        "transaction_date": "2018-11-01",
+        "median_price": 395500.0,
+        "transactions": 1866
+      },
+      {
+        "transaction_date": "2018-12-01",
+        "median_price": 395000.0,
+        "transactions": 1423
+      },
+      {
+        "transaction_date": "2019-01-01",
+        "median_price": 395000.0,
+        "transactions": 1550
+      },
+      {
+        "transaction_date": "2019-02-01",
+        "median_price": 393000.0,
+        "transactions": 1304
+      },
+      {
+        "transaction_date": "2019-03-01",
+        "median_price": 400000.0,
+        "transactions": 1653
+      },
+      {
+        "transaction_date": "2019-04-01",
+        "median_price": 400000.0,
+        "transactions": 1915
+      },
+      {
+        "transaction_date": "2019-05-01",
+        "median_price": 400000.0,
+        "transactions": 2070
+      },
+      {
+        "transaction_date": "2019-06-01",
+        "median_price": 400000.0,
+        "transactions": 1884
+      },
+      {
+        "transaction_date": "2019-07-01",
+        "median_price": 405000.0,
+        "transactions": 2114
+      },
+      {
+        "transaction_date": "2019-08-01",
+        "median_price": 405000.0,
+        "transactions": 1902
+      },
+      {
+        "transaction_date": "2019-09-01",
+        "median_price": 400000.0,
+        "transactions": 1830
+      },
+      {
+        "transaction_date": "2019-10-01",
+        "median_price": 400444.0,
+        "transactions": 2206
+      },
+      {
+        "transaction_date": "2019-11-01",
+        "median_price": 405000.0,
+        "transactions": 1910
+      },
+      {
+        "transaction_date": "2019-12-01",
+        "median_price": 405000.0,
+        "transactions": 1848
+      },
+      {
+        "transaction_date": "2020-01-01",
+        "median_price": 400000.0,
+        "transactions": 1911
+      },
+      {
+        "transaction_date": "2020-02-01",
+        "median_price": 408000.0,
+        "transactions": 1661
+      },
+      {
+        "transaction_date": "2020-03-01",
+        "median_price": 412000.0,
+        "transactions": 1937
+      },
+      {
+        "transaction_date": "2020-04-01",
+        "median_price": 424000.0,
+        "transactions": 424
+      },
+      {
+        "transaction_date": "2020-05-01",
+        "median_price": 430000.0,
+        "transactions": 363
+      },
+      {
+        "transaction_date": "2020-06-01",
+        "median_price": 405000.0,
+        "transactions": 2438
+      },
+      {
+        "transaction_date": "2020-07-01",
+        "median_price": 413000.0,
+        "transactions": 2456
+      },
+      {
+        "transaction_date": "2020-08-01",
+        "median_price": 425000.0,
+        "transactions": 2426
+      },
+      {
+        "transaction_date": "2020-09-01",
+        "median_price": 431000.0,
+        "transactions": 2482
+      },
+      {
+        "transaction_date": "2020-10-01",
+        "median_price": 450000.0,
+        "transactions": 2427
+      },
+      {
+        "transaction_date": "2020-11-01",
+        "median_price": 446888.0,
+        "transactions": 2322
+      },
+      {
+        "transaction_date": "2020-12-01",
+        "median_price": 450500.0,
+        "transactions": 2486
+      },
+      {
+        "transaction_date": "2021-01-01",
+        "median_price": 460000.0,
+        "transactions": 2491
+      },
+      {
+        "transaction_date": "2021-02-01",
+        "median_price": 460000.0,
+        "transactions": 2160
+      },
+      {
+        "transaction_date": "2021-03-01",
+        "median_price": 465000.0,
+        "transactions": 2443
+      },
+      {
+        "transaction_date": "2021-04-01",
+        "median_price": 472000.0,
+        "transactions": 2333
+      },
+      {
+        "transaction_date": "2021-05-01",
+        "median_price": 480000.0,
+        "transactions": 1957
+      },
+      {
+        "transaction_date": "2021-06-01",
+        "median_price": 482000.0,
+        "transactions": 2302
+      },
+      {
+        "transaction_date": "2021-07-01",
+        "median_price": 480000.0,
+        "transactions": 2659
+      },
+      {
+        "transaction_date": "2021-08-01",
+        "median_price": 490000.0,
+        "transactions": 2739
+      },
+      {
+        "transaction_date": "2021-09-01",
+        "median_price": 492000.0,
+        "transactions": 2516
+      },
+      {
+        "transaction_date": "2021-10-01",
+        "median_price": 500000.0,
+        "transactions": 2499
+      },
+      {
+        "transaction_date": "2021-11-01",
+        "median_price": 503000.0,
+        "transactions": 2566
+      },
+      {
+        "transaction_date": "2021-12-01",
+        "median_price": 505000.0,
+        "transactions": 2422
+      },
+      {
+        "transaction_date": "2022-01-01",
+        "median_price": 500000.0,
+        "transactions": 2442
+      },
+      {
+        "transaction_date": "2022-02-01",
+        "median_price": 508000.0,
+        "transactions": 1895
+      },
+      {
+        "transaction_date": "2022-03-01",
+        "median_price": 510000.0,
+        "transactions": 2262
+      },
+      {
+        "transaction_date": "2022-04-01",
+        "median_price": 520000.0,
+        "transactions": 2262
+      },
+      {
+        "transaction_date": "2022-05-01",
+        "median_price": 520000.0,
+        "transactions": 2154
+      },
+      {
+        "transaction_date": "2022-06-01",
+        "median_price": 530000.0,
+        "transactions": 2135
+      },
+      {
+        "transaction_date": "2022-07-01",
+        "median_price": 530000.0,
+        "transactions": 2361
+      },
+      {
+        "transaction_date": "2022-08-01",
+        "median_price": 522000.0,
+        "transactions": 2309
+      },
+      {
+        "transaction_date": "2022-09-01",
+        "median_price": 538000.0,
+        "transactions": 2578
+      },
+      {
+        "transaction_date": "2022-10-01",
+        "median_price": 542750.0,
+        "transactions": 1958
+      },
+      {
+        "transaction_date": "2022-11-01",
+        "median_price": 538000.0,
+        "transactions": 2130
+      },
+      {
+        "transaction_date": "2022-12-01",
+        "median_price": 530000.0,
+        "transactions": 2234
+      },
+      {
+        "transaction_date": "2023-01-01",
+        "median_price": 535000.0,
+        "transactions": 2551
+      },
+      {
+        "transaction_date": "2023-02-01",
+        "median_price": 535800.0,
+        "transactions": 1837
+      },
+      {
+        "transaction_date": "2023-03-01",
+        "median_price": 543800.0,
+        "transactions": 2277
+      },
+      {
+        "transaction_date": "2023-04-01",
+        "median_price": 550000.0,
+        "transactions": 2177
+      },
+      {
+        "transaction_date": "2023-05-01",
+        "median_price": 550000.0,
+        "transactions": 2245
+      },
+      {
+        "transaction_date": "2023-06-01",
+        "median_price": 550000.0,
+        "transactions": 1853
+      },
+      {
+        "transaction_date": "2023-07-01",
+        "median_price": 555000.0,
+        "transactions": 2052
+      },
+      {
+        "transaction_date": "2023-08-01",
+        "median_price": 555000.0,
+        "transactions": 2467
+      },
+      {
+        "transaction_date": "2023-09-01",
+        "median_price": 550000.0,
+        "transactions": 1974
+      },
+      {
+        "transaction_date": "2023-10-01",
+        "median_price": 555000.0,
+        "transactions": 2189
+      },
+      {
+        "transaction_date": "2023-11-01",
+        "median_price": 560000.0,
+        "transactions": 2128
+      },
+      {
+        "transaction_date": "2023-12-01",
+        "median_price": 560000.0,
+        "transactions": 2004
+      },
+      {
+        "transaction_date": "2024-01-01",
+        "median_price": 570000.0,
+        "transactions": 2621
+      },
+      {
+        "transaction_date": "2024-02-01",
+        "median_price": 568000.0,
+        "transactions": 2123
+      },
+      {
+        "transaction_date": "2024-03-01",
+        "median_price": 572000.0,
+        "transactions": 2046
+      },
+      {
+        "transaction_date": "2024-04-01",
+        "median_price": 570000.0,
+        "transactions": 2370
+      },
+      {
+        "transaction_date": "2024-05-01",
+        "median_price": 580000.0,
+        "transactions": 2490
+      },
+      {
+        "transaction_date": "2024-06-01",
+        "median_price": 595000.0,
+        "transactions": 2171
+      },
+      {
+        "transaction_date": "2024-07-01",
+        "median_price": 595000.0,
+        "transactions": 3036
+      },
+      {
+        "transaction_date": "2024-08-01",
+        "median_price": 600000.0,
+        "transactions": 2591
+      },
+      {
+        "transaction_date": "2024-09-01",
+        "median_price": 610000.0,
+        "transactions": 2204
+      },
+      {
+        "transaction_date": "2024-10-01",
+        "median_price": 615000.0,
+        "transactions": 2139
+      },
+      {
+        "transaction_date": "2024-11-01",
+        "median_price": 615000.0,
+        "transactions": 1929
+      },
+      {
+        "transaction_date": "2024-12-01",
+        "median_price": 615444.0,
+        "transactions": 2112
+      },
+      {
+        "transaction_date": "2025-01-01",
+        "median_price": 612888.0,
+        "transactions": 2313
+      },
+      {
+        "transaction_date": "2025-02-01",
+        "median_price": 620000.0,
+        "transactions": 2091
+      },
+      {
+        "transaction_date": "2025-03-01",
+        "median_price": 625000.0,
+        "transactions": 1899
+      },
+      {
+        "transaction_date": "2025-04-01",
+        "median_price": 630000.0,
+        "transactions": 2297
+      },
+      {
+        "transaction_date": "2025-05-01",
+        "median_price": 635000.0,
+        "transactions": 2266
+      },
+      {
+        "transaction_date": "2025-06-01",
+        "median_price": 632400.0,
+        "transactions": 2260
+      },
+      {
+        "transaction_date": "2025-07-01",
+        "median_price": 628000.0,
+        "transactions": 2562
+      },
+      {
+        "transaction_date": "2025-08-01",
+        "median_price": 622000.0,
+        "transactions": 2203
+      },
+      {
+        "transaction_date": "2025-09-01",
+        "median_price": 645000.0,
+        "transactions": 2174
+      },
+      {
+        "transaction_date": "2025-10-01",
+        "median_price": 620000.0,
+        "transactions": 1338
+      },
+      {
+        "transaction_date": "2025-11-01",
+        "median_price": 618000.0,
+        "transactions": 1660
+      },
+      {
+        "transaction_date": "2025-12-01",
+        "median_price": 635000.0,
+        "transactions": 2029
+      },
+      {
+        "transaction_date": "2026-01-01",
+        "median_price": 630000.0,
+        "transactions": 2346
+      },
+      {
+        "transaction_date": "2026-02-01",
+        "median_price": 629444.0,
+        "transactions": 900
+      }
+    ],
+    "towns": [
+      {
+        "town": "TAMPINES",
+        "transactions": 83262,
+        "median_price": 328000.0
+      },
+      {
+        "town": "YISHUN",
+        "transactions": 73015,
+        "median_price": 255000.0
+      },
+      {
+        "town": "JURONG WEST",
+        "transactions": 69571,
+        "median_price": 288000.0
+      },
+      {
+        "town": "BEDOK",
+        "transactions": 68771,
+        "median_price": 251000.0
+      },
+      {
+        "town": "WOODLANDS",
+        "transactions": 68711,
+        "median_price": 303000.0
+      },
+      {
+        "town": "ANG MO KIO",
+        "transactions": 53785,
+        "median_price": 230000.0
+      },
+      {
+        "town": "HOUGANG",
+        "transactions": 53014,
+        "median_price": 308000.0
+      },
+      {
+        "town": "BUKIT BATOK",
+        "transactions": 46893,
+        "median_price": 260000.0
+      },
+      {
+        "town": "CHOA CHU KANG",
+        "transactions": 40222,
+        "median_price": 345000.0
+      },
+      {
+        "town": "BUKIT MERAH",
+        "transactions": 36003,
+        "median_price": 318000.0
+      },
+      {
+        "town": "SENGKANG",
+        "transactions": 35897,
+        "median_price": 450000.0
+      },
+      {
+        "town": "PASIR RIS",
+        "transactions": 34337,
+        "median_price": 395000.0
+      },
+      {
+        "town": "TOA PAYOH",
+        "transactions": 33204,
+        "median_price": 270000.0
+      },
+      {
+        "town": "QUEENSTOWN",
+        "transactions": 29881,
+        "median_price": 218000.0
+      },
+      {
+        "town": "GEYLANG",
+        "transactions": 29333,
+        "median_price": 248000.0
+      },
+      {
+        "town": "BUKIT PANJANG",
+        "transactions": 29112,
+        "median_price": 325000.0
+      },
+      {
+        "town": "CLEMENTI",
+        "transactions": 28979,
+        "median_price": 248000.0
+      },
+      {
+        "town": "KALLANG/WHAMPOA",
+        "transactions": 28641,
+        "median_price": 298000.0
+      },
+      {
+        "town": "JURONG EAST",
+        "transactions": 25647,
+        "median_price": 270000.0
+      },
+      {
+        "town": "PUNGGOL",
+        "transactions": 23599,
+        "median_price": 490000.0
+      },
+      {
+        "town": "SERANGOON",
+        "transactions": 23524,
+        "median_price": 305000.0
+      },
+      {
+        "town": "BISHAN",
+        "transactions": 21922,
+        "median_price": 400000.0
+      },
+      {
+        "town": "SEMBAWANG",
+        "transactions": 15771,
+        "median_price": 393000.0
+      },
+      {
+        "town": "MARINE PARADE",
+        "transactions": 8308,
+        "median_price": 310000.0
+      },
+      {
+        "town": "CENTRAL AREA",
+        "transactions": 7447,
+        "median_price": 285000.0
+      },
+      {
+        "town": "BUKIT TIMAH",
+        "transactions": 2610,
+        "median_price": 423000.0
+      },
+      {
+        "town": "LIM CHU KANG",
+        "transactions": 64,
+        "median_price": 61750.0
+      }
+    ],
+    "flat_types": [
+      {
+        "flat_type": "4 ROOM",
+        "transactions": 371575,
+        "median_price": 302000.0
+      },
+      {
+        "flat_type": "3 ROOM",
+        "transactions": 306794,
+        "median_price": 176000.0
+      },
+      {
+        "flat_type": "5 ROOM",
+        "transactions": 205684,
+        "median_price": 410000.0
+      },
+      {
+        "flat_type": "EXECUTIVE",
+        "transactions": 72385,
+        "median_price": 495000.0
+      },
+      {
+        "flat_type": "2 ROOM",
+        "transactions": 13217,
+        "median_price": 153000.0
+      },
+      {
+        "flat_type": "1 ROOM",
+        "transactions": 1318,
+        "median_price": 48000.0
+      },
+      {
+        "flat_type": "MULTI GENERATION",
+        "transactions": 550,
+        "median_price": 500000.0
+      }
+    ],
+    "rpi": [
+      {
+        "year": 1990,
+        "quarter": 1,
+        "rpi": 24.3
+      },
+      {
+        "year": 1990,
+        "quarter": 2,
+        "rpi": 24.4
+      },
+      {
+        "year": 1990,
+        "quarter": 3,
+        "rpi": 25.0
+      },
+      {
+        "year": 1990,
+        "quarter": 4,
+        "rpi": 24.7
+      },
+      {
+        "year": 1991,
+        "quarter": 1,
+        "rpi": 24.9
+      },
+      {
+        "year": 1991,
+        "quarter": 2,
+        "rpi": 25.5
+      },
+      {
+        "year": 1991,
+        "quarter": 3,
+        "rpi": 25.2
+      },
+      {
+        "year": 1991,
+        "quarter": 4,
+        "rpi": 25.1
+      },
+      {
+        "year": 1992,
+        "quarter": 1,
+        "rpi": 25.8
+      },
+      {
+        "year": 1992,
+        "quarter": 2,
+        "rpi": 27.4
+      },
+      {
+        "year": 1992,
+        "quarter": 3,
+        "rpi": 28.0
+      },
+      {
+        "year": 1992,
+        "quarter": 4,
+        "rpi": 28.6
+      },
+      {
+        "year": 1993,
+        "quarter": 1,
+        "rpi": 30.2
+      },
+      {
+        "year": 1993,
+        "quarter": 2,
+        "rpi": 39.6
+      },
+      {
+        "year": 1993,
+        "quarter": 3,
+        "rpi": 47.7
+      },
+      {
+        "year": 1993,
+        "quarter": 4,
+        "rpi": 49.0
+      },
+      {
+        "year": 1994,
+        "quarter": 1,
+        "rpi": 50.4
+      },
+      {
+        "year": 1994,
+        "quarter": 2,
+        "rpi": 51.7
+      },
+      {
+        "year": 1994,
+        "quarter": 3,
+        "rpi": 54.6
+      },
+      {
+        "year": 1994,
+        "quarter": 4,
+        "rpi": 54.8
+      },
+      {
+        "year": 1995,
+        "quarter": 1,
+        "rpi": 57.3
+      },
+      {
+        "year": 1995,
+        "quarter": 2,
+        "rpi": 63.9
+      },
+      {
+        "year": 1995,
+        "quarter": 3,
+        "rpi": 67.7
+      },
+      {
+        "year": 1995,
+        "quarter": 4,
+        "rpi": 73.7
+      },
+      {
+        "year": 1996,
+        "quarter": 1,
+        "rpi": 80.5
+      },
+      {
+        "year": 1996,
+        "quarter": 2,
+        "rpi": 90.9
+      },
+      {
+        "year": 1996,
+        "quarter": 3,
+        "rpi": 96.4
+      },
+      {
+        "year": 1996,
+        "quarter": 4,
+        "rpi": 99.0
+      },
+      {
+        "year": 1997,
+        "quarter": 1,
+        "rpi": 98.6
+      },
+      {
+        "year": 1997,
+        "quarter": 2,
+        "rpi": 97.5
+      },
+      {
+        "year": 1997,
+        "quarter": 3,
+        "rpi": 93.6
+      },
+      {
+        "year": 1997,
+        "quarter": 4,
+        "rpi": 88.0
+      },
+      {
+        "year": 1998,
+        "quarter": 1,
+        "rpi": 81.7
+      },
+      {
+        "year": 1998,
+        "quarter": 2,
+        "rpi": 78.3
+      },
+      {
+        "year": 1998,
+        "quarter": 3,
+        "rpi": 74.9
+      },
+      {
+        "year": 1998,
+        "quarter": 4,
+        "rpi": 72.3
+      },
+      {
+        "year": 1999,
+        "quarter": 1,
+        "rpi": 71.2
+      },
+      {
+        "year": 1999,
+        "quarter": 2,
+        "rpi": 72.2
+      },
+      {
+        "year": 1999,
+        "quarter": 3,
+        "rpi": 78.1
+      },
+      {
+        "year": 1999,
+        "quarter": 4,
+        "rpi": 79.8
+      },
+      {
+        "year": 2000,
+        "quarter": 1,
+        "rpi": 80.3
+      },
+      {
+        "year": 2000,
+        "quarter": 2,
+        "rpi": 79.3
+      },
+      {
+        "year": 2000,
+        "quarter": 3,
+        "rpi": 77.6
+      },
+      {
+        "year": 2000,
+        "quarter": 4,
+        "rpi": 75.8
+      },
+      {
+        "year": 2001,
+        "quarter": 1,
+        "rpi": 73.2
+      },
+      {
+        "year": 2001,
+        "quarter": 2,
+        "rpi": 72.1
+      },
+      {
+        "year": 2001,
+        "quarter": 3,
+        "rpi": 70.6
+      },
+      {
+        "year": 2001,
+        "quarter": 4,
+        "rpi": 69.6
+      },
+      {
+        "year": 2002,
+        "quarter": 1,
+        "rpi": 69.1
+      },
+      {
+        "year": 2002,
+        "quarter": 2,
+        "rpi": 69.2
+      },
+      {
+        "year": 2002,
+        "quarter": 3,
+        "rpi": 69.9
+      },
+      {
+        "year": 2002,
+        "quarter": 4,
+        "rpi": 69.9
+      },
+      {
+        "year": 2003,
+        "quarter": 1,
+        "rpi": 71.0
+      },
+      {
+        "year": 2003,
+        "quarter": 2,
+        "rpi": 72.5
+      },
+      {
+        "year": 2003,
+        "quarter": 3,
+        "rpi": 74.3
+      },
+      {
+        "year": 2003,
+        "quarter": 4,
+        "rpi": 75.1
+      },
+      {
+        "year": 2004,
+        "quarter": 1,
+        "rpi": 75.3
+      },
+      {
+        "year": 2004,
+        "quarter": 2,
+        "rpi": 76.2
+      },
+      {
+        "year": 2004,
+        "quarter": 3,
+        "rpi": 76.3
+      },
+      {
+        "year": 2004,
+        "quarter": 4,
+        "rpi": 77.1
+      },
+      {
+        "year": 2005,
+        "quarter": 1,
+        "rpi": 77.2
+      },
+      {
+        "year": 2005,
+        "quarter": 2,
+        "rpi": 73.5
+      },
+      {
+        "year": 2005,
+        "quarter": 3,
+        "rpi": 73.2
+      },
+      {
+        "year": 2005,
+        "quarter": 4,
+        "rpi": 73.5
+      },
+      {
+        "year": 2006,
+        "quarter": 1,
+        "rpi": 73.6
+      },
+      {
+        "year": 2006,
+        "quarter": 2,
+        "rpi": 74.3
+      },
+      {
+        "year": 2006,
+        "quarter": 3,
+        "rpi": 74.2
+      },
+      {
+        "year": 2006,
+        "quarter": 4,
+        "rpi": 74.9
+      },
+      {
+        "year": 2007,
+        "quarter": 1,
+        "rpi": 75.8
+      },
+      {
+        "year": 2007,
+        "quarter": 2,
+        "rpi": 78.1
+      },
+      {
+        "year": 2007,
+        "quarter": 3,
+        "rpi": 83.2
+      },
+      {
+        "year": 2007,
+        "quarter": 4,
+        "rpi": 88.0
+      },
+      {
+        "year": 2008,
+        "quarter": 1,
+        "rpi": 91.3
+      },
+      {
+        "year": 2008,
+        "quarter": 2,
+        "rpi": 95.4
+      },
+      {
+        "year": 2008,
+        "quarter": 3,
+        "rpi": 99.4
+      },
+      {
+        "year": 2008,
+        "quarter": 4,
+        "rpi": 100.8
+      },
+      {
+        "year": 2009,
+        "quarter": 1,
+        "rpi": 100.0
+      },
+      {
+        "year": 2009,
+        "quarter": 2,
+        "rpi": 101.4
+      },
+      {
+        "year": 2009,
+        "quarter": 3,
+        "rpi": 105.0
+      },
+      {
+        "year": 2009,
+        "quarter": 4,
+        "rpi": 109.0
+      },
+      {
+        "year": 2010,
+        "quarter": 1,
+        "rpi": 112.1
+      },
+      {
+        "year": 2010,
+        "quarter": 2,
+        "rpi": 116.6
+      },
+      {
+        "year": 2010,
+        "quarter": 3,
+        "rpi": 121.3
+      },
+      {
+        "year": 2010,
+        "quarter": 4,
+        "rpi": 124.4
+      },
+      {
+        "year": 2011,
+        "quarter": 1,
+        "rpi": 126.4
+      },
+      {
+        "year": 2011,
+        "quarter": 2,
+        "rpi": 130.4
+      },
+      {
+        "year": 2011,
+        "quarter": 3,
+        "rpi": 135.4
+      },
+      {
+        "year": 2011,
+        "quarter": 4,
+        "rpi": 137.7
+      },
+      {
+        "year": 2012,
+        "quarter": 1,
+        "rpi": 138.5
+      },
+      {
+        "year": 2012,
+        "quarter": 2,
+        "rpi": 140.3
+      },
+      {
+        "year": 2012,
+        "quarter": 3,
+        "rpi": 143.1
+      },
+      {
+        "year": 2012,
+        "quarter": 4,
+        "rpi": 146.7
+      },
+      {
+        "year": 2013,
+        "quarter": 1,
+        "rpi": 148.6
+      },
+      {
+        "year": 2013,
+        "quarter": 2,
+        "rpi": 149.4
+      },
+      {
+        "year": 2013,
+        "quarter": 3,
+        "rpi": 148.1
+      },
+      {
+        "year": 2013,
+        "quarter": 4,
+        "rpi": 145.8
+      },
+      {
+        "year": 2014,
+        "quarter": 1,
+        "rpi": 143.5
+      },
+      {
+        "year": 2014,
+        "quarter": 2,
+        "rpi": 141.5
+      },
+      {
+        "year": 2014,
+        "quarter": 3,
+        "rpi": 139.1
+      },
+      {
+        "year": 2014,
+        "quarter": 4,
+        "rpi": 137.0
+      },
+      {
+        "year": 2015,
+        "quarter": 1,
+        "rpi": 135.6
+      },
+      {
+        "year": 2015,
+        "quarter": 2,
+        "rpi": 135.0
+      },
+      {
+        "year": 2015,
+        "quarter": 3,
+        "rpi": 134.6
+      },
+      {
+        "year": 2015,
+        "quarter": 4,
+        "rpi": 134.8
+      },
+      {
+        "year": 2016,
+        "quarter": 1,
+        "rpi": 134.7
+      },
+      {
+        "year": 2016,
+        "quarter": 2,
+        "rpi": 134.7
+      },
+      {
+        "year": 2016,
+        "quarter": 3,
+        "rpi": 134.7
+      },
+      {
+        "year": 2016,
+        "quarter": 4,
+        "rpi": 134.6
+      },
+      {
+        "year": 2017,
+        "quarter": 1,
+        "rpi": 133.9
+      },
+      {
+        "year": 2017,
+        "quarter": 2,
+        "rpi": 133.7
+      },
+      {
+        "year": 2017,
+        "quarter": 3,
+        "rpi": 132.8
+      },
+      {
+        "year": 2017,
+        "quarter": 4,
+        "rpi": 132.6
+      },
+      {
+        "year": 2018,
+        "quarter": 1,
+        "rpi": 131.6
+      },
+      {
+        "year": 2018,
+        "quarter": 2,
+        "rpi": 131.7
+      },
+      {
+        "year": 2018,
+        "quarter": 3,
+        "rpi": 131.6
+      },
+      {
+        "year": 2018,
+        "quarter": 4,
+        "rpi": 131.4
+      },
+      {
+        "year": 2019,
+        "quarter": 1,
+        "rpi": 131.0
+      },
+      {
+        "year": 2019,
+        "quarter": 2,
+        "rpi": 130.8
+      },
+      {
+        "year": 2019,
+        "quarter": 3,
+        "rpi": 130.9
+      },
+      {
+        "year": 2019,
+        "quarter": 4,
+        "rpi": 131.5
+      },
+      {
+        "year": 2020,
+        "quarter": 1,
+        "rpi": 131.5
+      },
+      {
+        "year": 2020,
+        "quarter": 2,
+        "rpi": 131.9
+      },
+      {
+        "year": 2020,
+        "quarter": 3,
+        "rpi": 133.9
+      },
+      {
+        "year": 2020,
+        "quarter": 4,
+        "rpi": 138.1
+      },
+      {
+        "year": 2021,
+        "quarter": 1,
+        "rpi": 142.2
+      },
+      {
+        "year": 2021,
+        "quarter": 2,
+        "rpi": 146.4
+      },
+      {
+        "year": 2021,
+        "quarter": 3,
+        "rpi": 150.6
+      },
+      {
+        "year": 2021,
+        "quarter": 4,
+        "rpi": 155.7
+      },
+      {
+        "year": 2022,
+        "quarter": 1,
+        "rpi": 159.5
+      },
+      {
+        "year": 2022,
+        "quarter": 2,
+        "rpi": 163.9
+      },
+      {
+        "year": 2022,
+        "quarter": 3,
+        "rpi": 168.1
+      },
+      {
+        "year": 2022,
+        "quarter": 4,
+        "rpi": 171.9
+      },
+      {
+        "year": 2023,
+        "quarter": 1,
+        "rpi": 173.6
+      },
+      {
+        "year": 2023,
+        "quarter": 2,
+        "rpi": 176.2
+      },
+      {
+        "year": 2023,
+        "quarter": 3,
+        "rpi": 178.5
+      },
+      {
+        "year": 2023,
+        "quarter": 4,
+        "rpi": 180.4
+      },
+      {
+        "year": 2024,
+        "quarter": 1,
+        "rpi": 183.7
+      },
+      {
+        "year": 2024,
+        "quarter": 2,
+        "rpi": 187.9
+      },
+      {
+        "year": 2024,
+        "quarter": 3,
+        "rpi": 192.9
+      },
+      {
+        "year": 2024,
+        "quarter": 4,
+        "rpi": 197.9
+      },
+      {
+        "year": 2025,
+        "quarter": 1,
+        "rpi": 201.0
+      },
+      {
+        "year": 2025,
+        "quarter": 2,
+        "rpi": 202.9
+      },
+      {
+        "year": 2025,
+        "quarter": 3,
+        "rpi": 203.7
+      },
+      {
+        "year": 2025,
+        "quarter": 4,
+        "rpi": 203.6
+      },
+      {
+        "year": 2026,
+        "quarter": 1,
+        "rpi": 203.4
+      },
+      {
+        "year": 2026,
+        "quarter": 2,
+        "rpi": 202.8
+      }
+    ]
+  },
+  "ec": {
+    "monthly": [
+      {
+        "transaction_date": "2021-09-01",
+        "median_price": 1264000.0,
+        "transactions": 495
+      },
+      {
+        "transaction_date": "2021-10-01",
+        "median_price": 1232000.0,
+        "transactions": 335
+      },
+      {
+        "transaction_date": "2021-11-01",
+        "median_price": 1189400.0,
+        "transactions": 222
+      },
+      {
+        "transaction_date": "2021-12-01",
+        "median_price": 1189000.0,
+        "transactions": 235
+      },
+      {
+        "transaction_date": "2022-01-01",
+        "median_price": 1200000.0,
+        "transactions": 203
+      },
+      {
+        "transaction_date": "2022-02-01",
+        "median_price": 1200000.0,
+        "transactions": 131
+      },
+      {
+        "transaction_date": "2022-03-01",
+        "median_price": 1212000.0,
+        "transactions": 201
+      },
+      {
+        "transaction_date": "2022-04-01",
+        "median_price": 1298444.0,
+        "transactions": 314
+      },
+      {
+        "transaction_date": "2022-05-01",
+        "median_price": 1247500.0,
+        "transactions": 270
+      },
+      {
+        "transaction_date": "2022-06-01",
+        "median_price": 1261000.0,
+        "transactions": 224
+      },
+      {
+        "transaction_date": "2022-07-01",
+        "median_price": 1250000.0,
+        "transactions": 203
+      },
+      {
+        "transaction_date": "2022-08-01",
+        "median_price": 1265000.0,
+        "transactions": 192
+      },
+      {
+        "transaction_date": "2022-09-01",
+        "median_price": 1250000.0,
+        "transactions": 190
+      },
+      {
+        "transaction_date": "2022-10-01",
+        "median_price": 1356000.0,
+        "transactions": 621
+      },
+      {
+        "transaction_date": "2022-11-01",
+        "median_price": 1289500.0,
+        "transactions": 336
+      },
+      {
+        "transaction_date": "2022-12-01",
+        "median_price": 1378000.0,
+        "transactions": 558
+      },
+      {
+        "transaction_date": "2023-01-01",
+        "median_price": 1347000.0,
+        "transactions": 231
+      },
+      {
+        "transaction_date": "2023-02-01",
+        "median_price": 1285000.0,
+        "transactions": 119
+      },
+      {
+        "transaction_date": "2023-03-01",
+        "median_price": 1296000.0,
+        "transactions": 183
+      },
+      {
+        "transaction_date": "2023-04-01",
+        "median_price": 1300000.0,
+        "transactions": 183
+      },
+      {
+        "transaction_date": "2023-05-01",
+        "median_price": 1269000.0,
+        "transactions": 282
+      },
+      {
+        "transaction_date": "2023-06-01",
+        "median_price": 1290000.0,
+        "transactions": 154
+      },
+      {
+        "transaction_date": "2023-07-01",
+        "median_price": 1354000.0,
+        "transactions": 229
+      },
+      {
+        "transaction_date": "2023-08-01",
+        "median_price": 1450000.0,
+        "transactions": 445
+      },
+      {
+        "transaction_date": "2023-09-01",
+        "median_price": 1450000.0,
+        "transactions": 274
+      },
+      {
+        "transaction_date": "2023-10-01",
+        "median_price": 1360000.0,
+        "transactions": 218
+      },
+      {
+        "transaction_date": "2023-11-01",
+        "median_price": 1335500.0,
+        "transactions": 182
+      },
+      {
+        "transaction_date": "2023-12-01",
+        "median_price": 1402000.0,
+        "transactions": 188
+      },
+      {
+        "transaction_date": "2024-01-01",
+        "median_price": 1499000.0,
+        "transactions": 419
+      },
+      {
+        "transaction_date": "2024-02-01",
+        "median_price": 1395500.0,
+        "transactions": 154
+      },
+      {
+        "transaction_date": "2024-03-01",
+        "median_price": 1472500.0,
+        "transactions": 262
+      },
+      {
+        "transaction_date": "2024-04-01",
+        "median_price": 1382500.0,
+        "transactions": 256
+      },
+      {
+        "transaction_date": "2024-05-01",
+        "median_price": 1430000.0,
+        "transactions": 257
+      },
+      {
+        "transaction_date": "2024-06-01",
+        "median_price": 1400000.0,
+        "transactions": 237
+      },
+      {
+        "transaction_date": "2024-07-01",
+        "median_price": 1400000.0,
+        "transactions": 222
+      },
+      {
+        "transaction_date": "2024-08-01",
+        "median_price": 1371500.0,
+        "transactions": 214
+      },
+      {
+        "transaction_date": "2024-09-01",
+        "median_price": 1440000.0,
+        "transactions": 225
+      },
+      {
+        "transaction_date": "2024-10-01",
+        "median_price": 1429444.0,
+        "transactions": 208
+      },
+      {
+        "transaction_date": "2024-11-01",
+        "median_price": 1518000.0,
+        "transactions": 478
+      },
+      {
+        "transaction_date": "2024-12-01",
+        "median_price": 1465888.0,
+        "transactions": 313
+      },
+      {
+        "transaction_date": "2025-01-01",
+        "median_price": 1437500.0,
+        "transactions": 160
+      },
+      {
+        "transaction_date": "2025-02-01",
+        "median_price": 1462000.0,
+        "transactions": 177
+      },
+      {
+        "transaction_date": "2025-03-01",
+        "median_price": 1591000.0,
+        "transactions": 918
+      },
+      {
+        "transaction_date": "2025-04-01",
+        "median_price": 1482000.0,
+        "transactions": 311
+      },
+      {
+        "transaction_date": "2025-05-01",
+        "median_price": 1578000.0,
+        "transactions": 207
+      },
+      {
+        "transaction_date": "2025-06-01",
+        "median_price": 1461500.0,
+        "transactions": 200
+      },
+      {
+        "transaction_date": "2025-07-01",
+        "median_price": 1688000.0,
+        "transactions": 485
+      },
+      {
+        "transaction_date": "2025-08-01",
+        "median_price": 1647000.0,
+        "transactions": 347
+      },
+      {
+        "transaction_date": "2025-09-01",
+        "median_price": 1504000.0,
+        "transactions": 161
+      },
+      {
+        "transaction_date": "2025-10-01",
+        "median_price": 1573500.0,
+        "transactions": 166
+      },
+      {
+        "transaction_date": "2025-11-01",
+        "median_price": 1539000.0,
+        "transactions": 178
+      },
+      {
+        "transaction_date": "2025-12-01",
+        "median_price": 1638000.0,
+        "transactions": 161
+      },
+      {
+        "transaction_date": "2026-01-01",
+        "median_price": 1762000.0,
+        "transactions": 573
+      },
+      {
+        "transaction_date": "2026-02-01",
+        "median_price": 1630000.0,
+        "transactions": 149
+      },
+      {
+        "transaction_date": "2026-03-01",
+        "median_price": 1823000.0,
+        "transactions": 676
+      },
+      {
+        "transaction_date": "2026-04-01",
+        "median_price": 1733944.0,
+        "transactions": 244
+      },
+      {
+        "transaction_date": "2026-05-01",
+        "median_price": 1640000.0,
+        "transactions": 212
+      },
+      {
+        "transaction_date": "2026-06-01",
+        "median_price": 1609000.0,
+        "transactions": 182
+      },
+      {
+        "transaction_date": "2026-07-01",
+        "median_price": 1631000.0,
+        "transactions": 155
+      },
+      {
+        "transaction_date": "2026-08-01",
+        "median_price": 1602500.0,
+        "transactions": 144
+      },
+      {
+        "transaction_date": "2026-09-01",
+        "median_price": 1798000.0,
+        "transactions": 26
+      }
+    ],
+    "projects": [
+      {
+        "project_name": "AURELLE OF TAMPINES",
+        "transactions": 757,
+        "median_price": 1606000.0
+      },
+      {
+        "project_name": "COPEN GRAND",
+        "transactions": 638,
+        "median_price": 1361000.0
+      },
+      {
+        "project_name": "COASTAL CABANA",
+        "transactions": 619,
+        "median_price": 1796000.0
+      },
+      {
+        "project_name": "TENET",
+        "transactions": 618,
+        "median_price": 1384000.0
+      },
+      {
+        "project_name": "NORTH GAIA",
+        "transactions": 615,
+        "median_price": 1359000.0
+      },
+      {
+        "project_name": "OTTO PLACE",
+        "transactions": 596,
+        "median_price": 1696000.0
+      },
+      {
+        "project_name": "SOL ACRES",
+        "transactions": 567,
+        "median_price": 1160000.0
+      },
+      {
+        "project_name": "RIVELLE TAMPINES",
+        "transactions": 558,
+        "median_price": 2002000.0
+      },
+      {
+        "project_name": "LUMINA GRAND",
+        "transactions": 512,
+        "median_price": 1520000.0
+      },
+      {
+        "project_name": "NOVO PLACE",
+        "transactions": 504,
+        "median_price": 1502000.0
+      },
+      {
+        "project_name": "PARC GREENWICH",
+        "transactions": 496,
+        "median_price": 1302500.0
+      },
+      {
+        "project_name": "ALTURA",
+        "transactions": 360,
+        "median_price": 1661000.0
+      },
+      {
+        "project_name": "BELLEWATERS",
+        "transactions": 329,
+        "median_price": 1498000.0
+      },
+      {
+        "project_name": "THE TERRACE",
+        "transactions": 301,
+        "median_price": 1422888.0
+      },
+      {
+        "project_name": "THE TOPIARY",
+        "transactions": 287,
+        "median_price": 1400000.0
+      },
+      {
+        "project_name": "THE VISIONAIRE",
+        "transactions": 286,
+        "median_price": 1380000.0
+      },
+      {
+        "project_name": "THE BROWNSTONE",
+        "transactions": 269,
+        "median_price": 1310000.0
+      },
+      {
+        "project_name": "THE VALES",
+        "transactions": 261,
+        "median_price": 1265000.0
+      },
+      {
+        "project_name": "PARC LIFE",
+        "transactions": 252,
+        "median_price": 1360000.0
+      },
+      {
+        "project_name": "THE CRITERION",
+        "transactions": 240,
+        "median_price": 1259000.0
+      },
+      {
+        "project_name": "THE TAMPINES TRILLIANT",
+        "transactions": 222,
+        "median_price": 1620000.0
+      },
+      {
+        "project_name": "SIGNATURE AT YISHUN",
+        "transactions": 219,
+        "median_price": 1260000.0
+      },
+      {
+        "project_name": "BELLEWOODS",
+        "transactions": 218,
+        "median_price": 1348888.0
+      },
+      {
+        "project_name": "PRIVE",
+        "transactions": 210,
+        "median_price": 1400000.0
+      },
+      {
+        "project_name": "ECOPOLITAN",
+        "transactions": 206,
+        "median_price": 1406500.0
+      }
+    ],
+    "sale_types": [
+      {
+        "sale_type": "RESALE",
+        "transactions": 9892,
+        "median_price": 1370000.0
+      },
+      {
+        "sale_type": "NEW SALE",
+        "transactions": 6603,
+        "median_price": 1560000.0
+      }
+    ],
+    "market_segments": [
+      {
+        "market_segment": "OUTSIDE CENTRAL REGION",
+        "transactions": 16453,
+        "median_price": 1450000.0
+      },
+      {
+        "market_segment": "REST OF CENTRAL REGION",
+        "transactions": 42,
+        "median_price": 2155000.0
+      }
+    ]
+  },
+  "landed": {
+    "monthly": [
+      {
+        "transaction_date": "2021-09-01",
+        "median_price": 4000001.0,
+        "transactions": 203
+      },
+      {
+        "transaction_date": "2021-10-01",
+        "median_price": 3940000.0,
+        "transactions": 230
+      },
+      {
+        "transaction_date": "2021-11-01",
+        "median_price": 4284000.0,
+        "transactions": 242
+      },
+      {
+        "transaction_date": "2021-12-01",
+        "median_price": 4050000.0,
+        "transactions": 199
+      },
+      {
+        "transaction_date": "2022-01-01",
+        "median_price": 4380000.0,
+        "transactions": 135
+      },
+      {
+        "transaction_date": "2022-02-01",
+        "median_price": 4280000.0,
+        "transactions": 131
+      },
+      {
+        "transaction_date": "2022-03-01",
+        "median_price": 4284444.0,
+        "transactions": 166
+      },
+      {
+        "transaction_date": "2022-04-01",
+        "median_price": 4100000.0,
+        "transactions": 185
+      },
+      {
+        "transaction_date": "2022-05-01",
+        "median_price": 4500000.0,
+        "transactions": 145
+      },
+      {
+        "transaction_date": "2022-06-01",
+        "median_price": 4374000.0,
+        "transactions": 162
+      },
+      {
+        "transaction_date": "2022-07-01",
+        "median_price": 4280000.0,
+        "transactions": 155
+      },
+      {
+        "transaction_date": "2022-08-01",
+        "median_price": 4175000.0,
+        "transactions": 156
+      },
+      {
+        "transaction_date": "2022-09-01",
+        "median_price": 4250000.0,
+        "transactions": 143
+      },
+      {
+        "transaction_date": "2022-10-01",
+        "median_price": 4380000.0,
+        "transactions": 117
+      },
+      {
+        "transaction_date": "2022-11-01",
+        "median_price": 3800000.0,
+        "transactions": 98
+      },
+      {
+        "transaction_date": "2022-12-01",
+        "median_price": 4475000.0,
+        "transactions": 90
+      },
+      {
+        "transaction_date": "2023-01-01",
+        "median_price": 4725000.0,
+        "transactions": 74
+      },
+      {
+        "transaction_date": "2023-02-01",
+        "median_price": 4550000.0,
+        "transactions": 97
+      },
+      {
+        "transaction_date": "2023-03-01",
+        "median_price": 4699000.0,
+        "transactions": 139
+      },
+      {
+        "transaction_date": "2023-04-01",
+        "median_price": 4200000.0,
+        "transactions": 104
+      },
+      {
+        "transaction_date": "2023-05-01",
+        "median_price": 4038000.0,
+        "transactions": 101
+      },
+      {
+        "transaction_date": "2023-06-01",
+        "median_price": 4510000.0,
+        "transactions": 97
+      },
+      {
+        "transaction_date": "2023-07-01",
+        "median_price": 4725000.0,
+        "transactions": 130
+      },
+      {
+        "transaction_date": "2023-08-01",
+        "median_price": 4230000.0,
+        "transactions": 135
+      },
+      {
+        "transaction_date": "2023-09-01",
+        "median_price": 4265000.0,
+        "transactions": 116
+      },
+      {
+        "transaction_date": "2023-10-01",
+        "median_price": 4399888.0,
+        "transactions": 97
+      },
+      {
+        "transaction_date": "2023-11-01",
+        "median_price": 4265000.0,
+        "transactions": 112
+      },
+      {
+        "transaction_date": "2023-12-01",
+        "median_price": 3900000.0,
+        "transactions": 79
+      },
+      {
+        "transaction_date": "2024-01-01",
+        "median_price": 4500000.0,
+        "transactions": 97
+      },
+      {
+        "transaction_date": "2024-02-01",
+        "median_price": 4275000.0,
+        "transactions": 84
+      },
+      {
+        "transaction_date": "2024-03-01",
+        "median_price": 4414000.0,
+        "transactions": 134
+      },
+      {
+        "transaction_date": "2024-04-01",
+        "median_price": 4200000.0,
+        "transactions": 175
+      },
+      {
+        "transaction_date": "2024-05-01",
+        "median_price": 4775000.0,
+        "transactions": 156
+      },
+      {
+        "transaction_date": "2024-06-01",
+        "median_price": 4300000.0,
+        "transactions": 141
+      },
+      {
+        "transaction_date": "2024-07-01",
+        "median_price": 4280000.0,
+        "transactions": 155
+      },
+      {
+        "transaction_date": "2024-08-01",
+        "median_price": 4320000.0,
+        "transactions": 145
+      },
+      {
+        "transaction_date": "2024-09-01",
+        "median_price": 4210000.0,
+        "transactions": 144
+      },
+      {
+        "transaction_date": "2024-10-01",
+        "median_price": 4680000.0,
+        "transactions": 158
+      },
+      {
+        "transaction_date": "2024-11-01",
+        "median_price": 4420000.0,
+        "transactions": 157
+      },
+      {
+        "transaction_date": "2024-12-01",
+        "median_price": 4680000.0,
+        "transactions": 149
+      },
+      {
+        "transaction_date": "2025-01-01",
+        "median_price": 4765000.0,
+        "transactions": 126
+      },
+      {
+        "transaction_date": "2025-02-01",
+        "median_price": 4680000.0,
+        "transactions": 149
+      },
+      {
+        "transaction_date": "2025-03-01",
+        "median_price": 4925000.0,
+        "transactions": 160
+      },
+      {
+        "transaction_date": "2025-04-01",
+        "median_price": 4980000.0,
+        "transactions": 149
+      },
+      {
+        "transaction_date": "2025-05-01",
+        "median_price": 4600000.0,
+        "transactions": 156
+      },
+      {
+        "transaction_date": "2025-06-01",
+        "median_price": 4700000.0,
+        "transactions": 145
+      },
+      {
+        "transaction_date": "2025-07-01",
+        "median_price": 4988888.0,
+        "transactions": 173
+      },
+      {
+        "transaction_date": "2025-08-01",
+        "median_price": 5144000.0,
+        "transactions": 146
+      },
+      {
+        "transaction_date": "2025-09-01",
+        "median_price": 5200000.0,
+        "transactions": 157
+      },
+      {
+        "transaction_date": "2025-10-01",
+        "median_price": 4900000.0,
+        "transactions": 180
+      },
+      {
+        "transaction_date": "2025-11-01",
+        "median_price": 5388000.0,
+        "transactions": 167
+      },
+      {
+        "transaction_date": "2025-12-01",
+        "median_price": 4794000.0,
+        "transactions": 176
+      },
+      {
+        "transaction_date": "2026-01-01",
+        "median_price": 5390000.0,
+        "transactions": 132
+      },
+      {
+        "transaction_date": "2026-02-01",
+        "median_price": 5200000.0,
+        "transactions": 156
+      },
+      {
+        "transaction_date": "2026-03-01",
+        "median_price": 5168888.0,
+        "transactions": 161
+      },
+      {
+        "transaction_date": "2026-04-01",
+        "median_price": 5380000.0,
+        "transactions": 172
+      },
+      {
+        "transaction_date": "2026-05-01",
+        "median_price": 5525000.0,
+        "transactions": 160
+      },
+      {
+        "transaction_date": "2026-06-01",
+        "median_price": 5397333.0,
+        "transactions": 192
+      },
+      {
+        "transaction_date": "2026-07-01",
+        "median_price": 5088400.0,
+        "transactions": 182
+      },
+      {
+        "transaction_date": "2026-08-01",
+        "median_price": 5700000.0,
+        "transactions": 145
+      },
+      {
+        "transaction_date": "2026-09-01",
+        "median_price": 5300000.0,
+        "transactions": 23
+      }
+    ],
+    "property_types": [
+      {
+        "property_type": "TERRACE HOUSE",
+        "transactions": 4938,
+        "median_price": 3960000.0
+      },
+      {
+        "property_type": "SEMI-DETACHED HOUSE",
+        "transactions": 2725,
+        "median_price": 5700000.0
+      },
+      {
+        "property_type": "DETACHED HOUSE",
+        "transactions": 1077,
+        "median_price": 11300000.0
+      }
+    ],
+    "districts": [
+      {
+        "postal_district": "19",
+        "transactions": 1542,
+        "median_price": 4400000.0
+      },
+      {
+        "postal_district": "15",
+        "transactions": 1138,
+        "median_price": 5380000.0
+      },
+      {
+        "postal_district": "28",
+        "transactions": 749,
+        "median_price": 4200000.0
+      },
+      {
+        "postal_district": "16",
+        "transactions": 689,
+        "median_price": 4180000.0
+      },
+      {
+        "postal_district": "20",
+        "transactions": 650,
+        "median_price": 4500000.0
+      },
+      {
+        "postal_district": "10",
+        "transactions": 644,
+        "median_price": 8800000.0
+      },
+      {
+        "postal_district": "13",
+        "transactions": 421,
+        "median_price": 4350000.0
+      },
+      {
+        "postal_district": "11",
+        "transactions": 408,
+        "median_price": 10294000.0
+      },
+      {
+        "postal_district": "23",
+        "transactions": 379,
+        "median_price": 3650000.0
+      },
+      {
+        "postal_district": "14",
+        "transactions": 336,
+        "median_price": 4664000.0
+      },
+      {
+        "postal_district": "21",
+        "transactions": 336,
+        "median_price": 5809000.0
+      },
+      {
+        "postal_district": "26",
+        "transactions": 287,
+        "median_price": 4280000.0
+      },
+      {
+        "postal_district": "17",
+        "transactions": 254,
+        "median_price": 2660000.0
+      },
+      {
+        "postal_district": "05",
+        "transactions": 208,
+        "median_price": 4650000.0
+      },
+      {
+        "postal_district": "27",
+        "transactions": 201,
+        "median_price": 3500000.0
+      },
+      {
+        "postal_district": "22",
+        "transactions": 142,
+        "median_price": 2344000.0
+      },
+      {
+        "postal_district": "25",
+        "transactions": 91,
+        "median_price": 2800000.0
+      },
+      {
+        "postal_district": "18",
+        "transactions": 89,
+        "median_price": 2680000.0
+      },
+      {
+        "postal_district": "04",
+        "transactions": 54,
+        "median_price": 15000000.0
+      },
+      {
+        "postal_district": "09",
+        "transactions": 37,
+        "median_price": 6180000.0
+      },
+      {
+        "postal_district": "12",
+        "transactions": 35,
+        "median_price": 3500000.0
+      },
+      {
+        "postal_district": "08",
+        "transactions": 23,
+        "median_price": 4700000.0
+      },
+      {
+        "postal_district": "03",
+        "transactions": 14,
+        "median_price": 8390000.0
+      },
+      {
+        "postal_district": "02",
+        "transactions": 13,
+        "median_price": 5300000.0
+      }
+    ],
+    "market_segments": [
+      {
+        "market_segment": "OUTSIDE CENTRAL REGION",
+        "transactions": 5953,
+        "median_price": 4250000.0
+      },
+      {
+        "market_segment": "REST OF CENTRAL REGION",
+        "transactions": 1648,
+        "median_price": 4900000.0
+      },
+      {
+        "market_segment": "CORE CENTRAL REGION",
+        "transactions": 1139,
+        "median_price": 9250000.0
+      }
+    ]
+  }
+}
